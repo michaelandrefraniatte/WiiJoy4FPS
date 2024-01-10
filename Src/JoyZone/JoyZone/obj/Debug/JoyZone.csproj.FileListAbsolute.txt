@@ -1,0 +1,10 @@
+C:\Users\mic\Documents\GitHub\JoyZone\Src\JoyZone\JoyZone\obj\Debug\JoyZone.csprojAssemblyReference.cache
+C:\Users\mic\Documents\GitHub\JoyZone\Src\JoyZone\JoyZone\obj\Debug\JoyZone.Form1.resources
+C:\Users\mic\Documents\GitHub\JoyZone\Src\JoyZone\JoyZone\obj\Debug\JoyZone.Properties.Resources.resources
+C:\Users\mic\Documents\GitHub\JoyZone\Src\JoyZone\JoyZone\obj\Debug\JoyZone.csproj.GenerateResource.cache
+C:\Users\mic\Documents\GitHub\JoyZone\Src\JoyZone\JoyZone\obj\Debug\JoyZone.csproj.CoreCompileInputs.cache
+C:\Users\mic\Documents\GitHub\JoyZone\Src\JoyZone\JoyZone\bin\Debug\JoyZone.exe.config
+C:\Users\mic\Documents\GitHub\JoyZone\Src\JoyZone\JoyZone\bin\Debug\JoyZone.exe
+C:\Users\mic\Documents\GitHub\JoyZone\Src\JoyZone\JoyZone\bin\Debug\JoyZone.pdb
+C:\Users\mic\Documents\GitHub\JoyZone\Src\JoyZone\JoyZone\obj\Debug\JoyZone.exe
+C:\Users\mic\Documents\GitHub\JoyZone\Src\JoyZone\JoyZone\obj\Debug\JoyZone.pdb

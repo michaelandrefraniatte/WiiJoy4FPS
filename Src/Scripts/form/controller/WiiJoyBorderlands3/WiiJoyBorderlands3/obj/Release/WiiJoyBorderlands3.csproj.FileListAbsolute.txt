@@ -1,0 +1,13 @@
+C:\Users\mic\Documents\GitHub\crappy-scripts\Src\Scripts\form\xbox360controller\WiiJoyBorderlands3\WiiJoyBorderlands3\bin\Release\WiiJoyBorderlands3.exe.config
+C:\Users\mic\Documents\GitHub\crappy-scripts\Src\Scripts\form\xbox360controller\WiiJoyBorderlands3\WiiJoyBorderlands3\bin\Release\WiiJoyBorderlands3.exe
+C:\Users\mic\Documents\GitHub\crappy-scripts\Src\Scripts\form\xbox360controller\WiiJoyBorderlands3\WiiJoyBorderlands3\bin\Release\WiiJoyBorderlands3.pdb
+C:\Users\mic\Documents\GitHub\crappy-scripts\Src\Scripts\form\xbox360controller\WiiJoyBorderlands3\WiiJoyBorderlands3\bin\Release\controller.dll
+C:\Users\mic\Documents\GitHub\crappy-scripts\Src\Scripts\form\xbox360controller\WiiJoyBorderlands3\WiiJoyBorderlands3\bin\Release\controller.pdb
+C:\Users\mic\Documents\GitHub\crappy-scripts\Src\Scripts\form\xbox360controller\WiiJoyBorderlands3\WiiJoyBorderlands3\obj\Release\WiiJoyBorderlands3.csprojAssemblyReference.cache
+C:\Users\mic\Documents\GitHub\crappy-scripts\Src\Scripts\form\xbox360controller\WiiJoyBorderlands3\WiiJoyBorderlands3\obj\Release\WiiJoyBorderlands3.Form1.resources
+C:\Users\mic\Documents\GitHub\crappy-scripts\Src\Scripts\form\xbox360controller\WiiJoyBorderlands3\WiiJoyBorderlands3\obj\Release\WiiJoyBorderlands3.Properties.Resources.resources
+C:\Users\mic\Documents\GitHub\crappy-scripts\Src\Scripts\form\xbox360controller\WiiJoyBorderlands3\WiiJoyBorderlands3\obj\Release\WiiJoyBorderlands3.csproj.GenerateResource.cache
+C:\Users\mic\Documents\GitHub\crappy-scripts\Src\Scripts\form\xbox360controller\WiiJoyBorderlands3\WiiJoyBorderlands3\obj\Release\WiiJoyBorderlands3.csproj.CoreCompileInputs.cache
+C:\Users\mic\Documents\GitHub\crappy-scripts\Src\Scripts\form\xbox360controller\WiiJoyBorderlands3\WiiJoyBorderlands3\obj\Release\WiiJoyBorderlands3.csproj.CopyComplete
+C:\Users\mic\Documents\GitHub\crappy-scripts\Src\Scripts\form\xbox360controller\WiiJoyBorderlands3\WiiJoyBorderlands3\obj\Release\WiiJoyBorderlands3.exe
+C:\Users\mic\Documents\GitHub\crappy-scripts\Src\Scripts\form\xbox360controller\WiiJoyBorderlands3\WiiJoyBorderlands3\obj\Release\WiiJoyBorderlands3.pdb

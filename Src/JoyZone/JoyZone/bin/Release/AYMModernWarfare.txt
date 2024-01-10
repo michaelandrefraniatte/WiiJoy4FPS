@@ -1,0 +1,206 @@
+AYMModernWarfare.txt
+//mouse control
+        public static int[] wd = { 2 };
+        public static int[] wu = { 2 };
+                public double mousex, mousey, irx, iry, zoningx = 300f, zoningy = 300f, maxx = 1600f, maxy = 1200f;
+                public void Main(float EulerAnglesLeftX, float EulerAnglesLeftY, float EulerAnglesLeftZ, float DirectAnglesLeftX, float DirectAnglesLeftY, float DirectAnglesLeftZ, float EulerAnglesRightX, float EulerAnglesRightY, float EulerAnglesRightZ, 
+                float DirectAnglesRightX, float DirectAnglesRightY, float DirectAnglesRightZ, bool LeftButtonSHOULDER_1, bool LeftButtonMINUS, bool LeftButtonCAPTURE, bool LeftButtonDPAD_UP, bool LeftButtonDPAD_LEFT, bool LeftButtonDPAD_DOWN, bool LeftButtonDPAD_RIGHT, bool LeftButtonSTICK, bool RightButtonDPAD_DOWN, bool LeftButtonSL, bool LeftButtonSR, double GetStickLeftX, double GetStickLeftY, 
+                bool RightButtonPLUS, bool RightButtonDPAD_RIGHT, bool RightButtonHOME, bool RightButtonSHOULDER_1, bool RightButtonDPAD_LEFT, bool RightButtonDPAD_UP, bool RightButtonSTICK, bool RightButtonSL, bool RightButtonSR, bool RightButtonSHOULDER_2, bool LeftButtonSHOULDER_2, double GetStickRightX, double GetStickRightY, float GetAccelRightX, float GetAccelRightY, float GetAccelRightZ, float GetAccelLeftX, float GetAccelLeftY, float GetAccelLeftZ)
+                { 	
+		irx = -(EulerAnglesRightX * 40000f);
+                        iry = -(EulerAnglesRightZ * 40000f);
+                        mousex = (Math.Pow(irx > 0 ? irx : -irx, zoningx / 100f) * (maxx / Math.Pow(maxx, zoningx / 100f)) + 3.99f) * (irx > 0 ? 1f : -1f);
+                        mousey = (Math.Pow(iry > 0 ? iry : -iry, zoningy / 100f) * (maxy / Math.Pow(maxy, zoningy / 100f)) + 3.49f) * (iry > 0 ? 1f : -1f);
+                	MouseMW3((int)(32767.5 - mousex * 32f), (int)(mousey * 32f + 32767.5));
+                }
+
+//keyboard control
+        public static int[] wd = { 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2 };
+        public static int[] wu = { 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2 };
+                public bool foraorcison, LeftButtonSHOULDER_2io, randA, ApressIO = false, HomeFTG = false;
+                public void Main(float EulerAnglesLeftX, float EulerAnglesLeftY, float EulerAnglesLeftZ, float DirectAnglesLeftX, float DirectAnglesLeftY, float DirectAnglesLeftZ, float EulerAnglesRightX, float EulerAnglesRightY, float EulerAnglesRightZ, 
+                float DirectAnglesRightX, float DirectAnglesRightY, float DirectAnglesRightZ, bool LeftButtonSHOULDER_1, bool LeftButtonMINUS, bool LeftButtonCAPTURE, bool LeftButtonDPAD_UP, bool LeftButtonDPAD_LEFT, bool LeftButtonDPAD_DOWN, bool LeftButtonDPAD_RIGHT, bool LeftButtonSTICK, bool RightButtonDPAD_DOWN, bool LeftButtonSL, bool LeftButtonSR, double GetStickLeftX, double GetStickLeftY, 
+                bool RightButtonPLUS, bool RightButtonDPAD_RIGHT, bool RightButtonHOME, bool RightButtonSHOULDER_1, bool RightButtonDPAD_LEFT, bool RightButtonDPAD_UP, bool RightButtonSTICK, bool RightButtonSL, bool RightButtonSR, bool RightButtonSHOULDER_2, bool LeftButtonSHOULDER_2, double GetStickRightX, double GetStickRightY, float GetAccelRightX, float GetAccelRightY, float GetAccelRightZ, float GetAccelLeftX, float GetAccelLeftY, float GetAccelLeftZ)
+                { 
+                    valchanged(5, LeftButtonDPAD_UP);
+                    if (wd[5] == 1)
+                        SimulateKeyDown(VK_7, S_7);
+                    if (wu[5] == 1)
+                        SimulateKeyUp(VK_7, S_7);
+                    valchanged(6, LeftButtonDPAD_LEFT);
+                    if (wd[6] == 1)
+                        SimulateKeyDown(VK_8, S_8);
+                    if (wu[6] == 1)
+                        SimulateKeyUp(VK_8, S_8);
+                    valchanged(7, LeftButtonDPAD_DOWN);
+                    if (wd[7] == 1)
+                        SimulateKeyDown(VK_9, S_9);
+                    if (wu[7] == 1)
+                        SimulateKeyUp(VK_9, S_9);
+                    valchanged(8, LeftButtonDPAD_RIGHT);
+                    if (wd[8] == 1)
+                        SimulateKeyDown(VK_0, S_0);
+                    if (wu[8] == 1)
+                        SimulateKeyUp(VK_0, S_0);
+                    valchanged(10, RightButtonDPAD_DOWN);
+                    if (wd[10] == 1)
+                        SimulateKeyDown(VK_C, S_C);
+                    if (wu[10] == 1)
+                        SimulateKeyUp(VK_C, S_C);
+                    valchanged(21, RightButtonDPAD_RIGHT);
+                    if (wd[21] == 1)
+                        SimulateKeyDown(VK_2, S_2);
+                    if (wu[21] == 1)
+                        SimulateKeyUp(VK_2, S_2);
+                    valchanged(24, RightButtonDPAD_LEFT);
+                    if (wd[24] == 1)
+                        SimulateKeyDown(VK_1, S_1);
+                    if (wu[24] == 1)
+                        SimulateKeyUp(VK_1, S_1);
+                    valchanged(25, RightButtonDPAD_UP);
+                    if (wd[25] == 1)
+                        SimulateKeyDown(VK_X, S_X);
+                    if (wu[25] == 1)
+                        SimulateKeyUp(VK_X, S_X);
+                    valchanged(3, LeftButtonMINUS | (HomeFTG & RightButtonHOME));
+                    if (wd[3] == 1)
+                        SimulateKeyDown(VK_T, S_T);
+                    if (wu[3] == 1)
+                        SimulateKeyUp(VK_T, S_T);
+                    valchanged(20, RightButtonPLUS | (HomeFTG & RightButtonHOME));
+                    if (wd[20] == 1)
+                        SimulateKeyDown(VK_G, S_G);
+                    if (wu[20] == 1)
+                        SimulateKeyUp(VK_G, S_G);
+                    valchanged(27, LeftButtonCAPTURE);
+                    if (wd[27] == 1)
+                        SimulateKeyDown(VK_Escape, S_Escape);
+                    if (wu[27] == 1)
+                        SimulateKeyUp(VK_Escape, S_Escape);
+                    valchanged(22, RightButtonHOME);
+                    if (wd[22] == 1)
+                        SimulateKeyDown(VK_F, S_F);
+                    if (wu[22] == 1)
+                        SimulateKeyUp(VK_F, S_F);
+                    valchanged(9, LeftButtonSTICK);
+                    if (wd[9] == 1)
+                        SimulateKeyDown(VK_LeftShift, S_LeftShift);
+                    if (wu[9] == 1)
+                        SimulateKeyUp(VK_LeftShift, S_LeftShift);
+                    valchanged(26, RightButtonSTICK);
+                    if (wd[26] == 1)
+                        SimulateKeyDown(VK_V, S_V);
+                    if (wu[26] == 1)
+                        SimulateKeyUp(VK_V, S_V);
+                    valchanged(29, LeftButtonSL);
+                    if (wd[29] == 1)
+                        SimulateKeyDown(VK_Q, S_Q);
+                    if (wu[29] == 1)
+                        SimulateKeyUp(VK_Q, S_Q);
+                    valchanged(28, LeftButtonSR);
+                    if (wd[28] == 1)
+                        SimulateKeyDown(VK_LMENU, S_LMENU);
+                    if (wu[28] == 1)
+                        SimulateKeyUp(VK_LMENU, S_LMENU);
+                    valchanged(14, RightButtonSL);
+                    if (wd[14] == 1)
+                        SimulateKeyDown(VK_Tab, S_Tab);
+                    if (wu[14] == 1)
+                        SimulateKeyUp(VK_Tab, S_Tab);
+                    valchanged(15, RightButtonSR);
+                    if (wd[15] == 1)
+                        SimulateKeyDown(VK_E, S_E);
+                    if (wu[15] == 1)
+                        SimulateKeyUp(VK_E, S_E);
+                    valchanged(23, RightButtonSHOULDER_1);
+                    if (wd[23] == 1)
+                        SimulateKeyDown(VK_V, S_V);
+                    if (wu[23] == 1)
+                        SimulateKeyUp(VK_V, S_V);
+                    valchanged(2, LeftButtonSHOULDER_1);
+                    if (wd[2] == 1)
+                        SimulateKeyDown(VK_Space, S_Space);
+                    if (wu[2] == 1)
+                        SimulateKeyUp(VK_Space, S_Space);
+                    valchanged(11, RightButtonSHOULDER_2);
+                    if (wd[11] == 1)
+                        LeftClick();
+                    if (wu[11] == 1)
+                        LeftClickF();
+                    if (ApressIO)
+                    {
+                        foraorcison = (LeftButtonMINUS | RightButtonPLUS | RightButtonHOME | (GetStickLeftY > 0.33f & LeftButtonSTICK) | LeftButtonDPAD_UP | LeftButtonDPAD_DOWN | LeftButtonDPAD_LEFT | LeftButtonDPAD_RIGHT);
+                        valchanged(32, LeftButtonSHOULDER_2);
+                        if (wd[32] == 1)
+                            if (!randA)
+                            {
+                                LeftButtonSHOULDER_2io = true;
+                                randA = true;
+                            }
+                            else
+                                if (randA)
+                            {
+                                LeftButtonSHOULDER_2io = false;
+                                randA = false;
+                            }
+                        if (LeftButtonSHOULDER_2io & foraorcison)
+                        {
+                            LeftButtonSHOULDER_2io = false;
+                            randA = false;
+                        }
+                        valchanged(33, LeftButtonSHOULDER_2io | (LeftButtonSHOULDER_2 & foraorcison));
+                        if (wd[33] == 1)
+                            RightClick();
+                        if (wu[33] == 1)
+                            RightClickF();
+                    }
+                    else
+                    {
+                        valchanged(34, LeftButtonSHOULDER_2);
+                        if (wd[34] == 1)
+                            RightClick();
+                        if (wu[34] == 1)
+                            RightClickF();
+                    }
+                    valchanged(16, GetStickLeftX > 0.25f);
+                    valchanged(17, GetStickLeftX < -0.25f);
+                    valchanged(18, GetStickLeftY > 0.25f);
+                    valchanged(19, GetStickLeftY < -0.25f);
+                    if (wd[16] == 1)
+                        SimulateKeyDown(VK_D, S_D);
+                    if (wu[16] == 1)
+                        SimulateKeyUp(VK_D, S_D);
+                    if (wd[17] == 1)
+                        SimulateKeyDown(VK_A, S_A);
+                    if (wu[17] == 1)
+                        SimulateKeyUp(VK_A, S_A);
+                    if (wd[18] == 1)
+                        SimulateKeyDown(VK_W, S_W);
+                    if (wu[18] == 1)
+                        SimulateKeyUp(VK_W, S_W);
+                    if (wd[19] == 1)
+                        SimulateKeyDown(VK_S, S_S);
+                    if (wu[19] == 1)
+                        SimulateKeyUp(VK_S, S_S);
+                    valchanged(35, GetStickRightX > 0.25f);
+                    valchanged(36, GetStickRightX < -0.25f);
+                    valchanged(37, GetStickRightY > 0.25f);
+                    valchanged(38, GetStickRightY < -0.25f);
+                    if (wd[35] == 1)
+                        SimulateKeyDown(VK_5, S_5);
+                    if (wu[35] == 1)
+                        SimulateKeyUp(VK_5, S_5);
+                    if (wd[36] == 1)
+                        SimulateKeyDown(VK_6, S_6);
+                    if (wu[36] == 1)
+                        SimulateKeyUp(VK_6, S_6);
+                    if (wd[37] == 1)
+                        SimulateKeyDown(VK_3, S_3);
+                    if (wu[37] == 1)
+                        SimulateKeyUp(VK_3, S_3);
+                    if (wd[38] == 1)
+                        SimulateKeyDown(VK_4, S_4);
+                    if (wu[38] == 1)
+                        SimulateKeyUp(VK_4, S_4);
+                }
+

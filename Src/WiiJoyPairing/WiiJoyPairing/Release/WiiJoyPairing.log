@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+  WiiJoyPairing.cpp
+     Création de la bibliothèque C:\Users\mic\Documents\GitHub\WiiJoy4FPS\Src\WiiJoyPairing\Release\WiiJoyPairing.lib et de l'objet C:\Users\mic\Documents\GitHub\WiiJoy4FPS\Src\WiiJoyPairing\Release\WiiJoyPairing.exp
+  Génération de code en cours
+  Previous IPDB not found, fall back to full compilation.
+  All 3 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Fin de la génération du code
+  WiiJoyPairing.vcxproj -> C:\Users\mic\Documents\GitHub\WiiJoy4FPS\Src\WiiJoyPairing\Release\WiiJoyPairing.dll

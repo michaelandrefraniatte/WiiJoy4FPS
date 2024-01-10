@@ -1,0 +1,11 @@
+C:\Users\mic\Documents\GitHub\WiiJoy\Src\scripts\form\unmanaged\WiiJoyCoDMP\WiiJoyCoDMP\bin\Release\WiiJoyCoDMP.exe.config
+C:\Users\mic\Documents\GitHub\WiiJoy\Src\scripts\form\unmanaged\WiiJoyCoDMP\WiiJoyCoDMP\bin\Release\WiiJoyCoDMP.exe
+C:\Users\mic\Documents\GitHub\WiiJoy\Src\scripts\form\unmanaged\WiiJoyCoDMP\WiiJoyCoDMP\bin\Release\WiiJoyCoDMP.pdb
+C:\Users\mic\Documents\GitHub\WiiJoy\Src\scripts\form\unmanaged\WiiJoyCoDMP\WiiJoyCoDMP\obj\Release\WiiJoyCoDMP.csproj.AssemblyReference.cache
+C:\Users\mic\Documents\GitHub\WiiJoy\Src\scripts\form\unmanaged\WiiJoyCoDMP\WiiJoyCoDMP\obj\Release\WiiJoyCoDMP.csproj.SuggestedBindingRedirects.cache
+C:\Users\mic\Documents\GitHub\WiiJoy\Src\scripts\form\unmanaged\WiiJoyCoDMP\WiiJoyCoDMP\obj\Release\WiiJoyCoDMP.Form1.resources
+C:\Users\mic\Documents\GitHub\WiiJoy\Src\scripts\form\unmanaged\WiiJoyCoDMP\WiiJoyCoDMP\obj\Release\WiiJoyCoDMP.Properties.Resources.resources
+C:\Users\mic\Documents\GitHub\WiiJoy\Src\scripts\form\unmanaged\WiiJoyCoDMP\WiiJoyCoDMP\obj\Release\WiiJoyCoDMP.csproj.GenerateResource.cache
+C:\Users\mic\Documents\GitHub\WiiJoy\Src\scripts\form\unmanaged\WiiJoyCoDMP\WiiJoyCoDMP\obj\Release\WiiJoyCoDMP.csproj.CoreCompileInputs.cache
+C:\Users\mic\Documents\GitHub\WiiJoy\Src\scripts\form\unmanaged\WiiJoyCoDMP\WiiJoyCoDMP\obj\Release\WiiJoyCoDMP.exe
+C:\Users\mic\Documents\GitHub\WiiJoy\Src\scripts\form\unmanaged\WiiJoyCoDMP\WiiJoyCoDMP\obj\Release\WiiJoyCoDMP.pdb

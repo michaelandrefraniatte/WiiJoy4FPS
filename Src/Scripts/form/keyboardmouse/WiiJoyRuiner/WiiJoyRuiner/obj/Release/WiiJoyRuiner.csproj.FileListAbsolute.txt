@@ -1,0 +1,10 @@
+C:\Users\mic\Documents\GitHub\crappy-scripts\Src\Scripts\form\keyboardmouse\WiiJoyRuiner\WiiJoyRuiner\bin\Release\WiiJoyRuiner.exe.config
+C:\Users\mic\Documents\GitHub\crappy-scripts\Src\Scripts\form\keyboardmouse\WiiJoyRuiner\WiiJoyRuiner\bin\Release\WiiJoyRuiner.exe
+C:\Users\mic\Documents\GitHub\crappy-scripts\Src\Scripts\form\keyboardmouse\WiiJoyRuiner\WiiJoyRuiner\bin\Release\WiiJoyRuiner.pdb
+C:\Users\mic\Documents\GitHub\crappy-scripts\Src\Scripts\form\keyboardmouse\WiiJoyRuiner\WiiJoyRuiner\obj\Release\WiiJoyRuiner.csprojAssemblyReference.cache
+C:\Users\mic\Documents\GitHub\crappy-scripts\Src\Scripts\form\keyboardmouse\WiiJoyRuiner\WiiJoyRuiner\obj\Release\WiiJoyRuiner.Form1.resources
+C:\Users\mic\Documents\GitHub\crappy-scripts\Src\Scripts\form\keyboardmouse\WiiJoyRuiner\WiiJoyRuiner\obj\Release\WiiJoyRuiner.Properties.Resources.resources
+C:\Users\mic\Documents\GitHub\crappy-scripts\Src\Scripts\form\keyboardmouse\WiiJoyRuiner\WiiJoyRuiner\obj\Release\WiiJoyRuiner.csproj.GenerateResource.cache
+C:\Users\mic\Documents\GitHub\crappy-scripts\Src\Scripts\form\keyboardmouse\WiiJoyRuiner\WiiJoyRuiner\obj\Release\WiiJoyRuiner.csproj.CoreCompileInputs.cache
+C:\Users\mic\Documents\GitHub\crappy-scripts\Src\Scripts\form\keyboardmouse\WiiJoyRuiner\WiiJoyRuiner\obj\Release\WiiJoyRuiner.exe
+C:\Users\mic\Documents\GitHub\crappy-scripts\Src\Scripts\form\keyboardmouse\WiiJoyRuiner\WiiJoyRuiner\obj\Release\WiiJoyRuiner.pdb

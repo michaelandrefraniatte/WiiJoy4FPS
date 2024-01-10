@@ -1,0 +1,526 @@
+// hid type
+controller
+// Call of Duty Black Ops Cold War
+X
+// viewpower05x
+0
+// viewpower1x
+0
+// viewpower2x
+1.0
+// viewpower3x
+0
+// viewpower05y
+0
+// viewpower1y
+0
+// viewpower2y
+1.0
+// viewpower3y
+0
+// dzx
+3.0
+// dzy
+3.0
+// lowsensx
+1.0
+// lowsensy
+1.0
+// centery
+140
+// apressio
+False
+// dzapressiox
+3.0
+// dzapressioy
+3.0
+// lowsensapressiox
+2.0
+// lowsensapressioy
+2.0
+// lowsenstime
+290
+// lowsenstimeapressio
+145
+// switch viewpower05x
+0
+// switch viewpower1x
+0
+// switch viewpower2x
+1.0
+// switch viewpower3x
+0
+// switch viewpower05y
+0
+// switch viewpower1y
+0
+// switch viewpower2y
+1.0
+// switch viewpower3y
+0
+// switch dzx
+3.0
+// switch dzy
+3.0
+// switch lowsensx
+1.0
+// switch lowsensy
+1.0
+// Down
+LeftButtonDPAD_DOWN
+// Left
+LeftButtonDPAD_LEFT
+// Right
+LeftButtonDPAD_RIGHT
+// Up
+LeftButtonDPAD_UP
+// RightStick
+LeftButtonSMA
+// LeftStick
+LeftButtonSHOULDER_2
+// A
+LeftButtonSHOULDER_1
+// Back
+mWSButtonStateOne
+// Start
+mWSLeftButtonTC
+// X
+mWSButtonStateHFront
+// RightBumper
+mWSButtonStatePU
+// LeftBumper
+mWSButtonStateMU
+// B
+mWSButtonStateDown
+// Y
+mWSButtonStateLR
+// RightTrigger
+mWSButtonStateB
+// LeftTrigger
+mWSButtonStateA
+// Switch Down
+LeftButtonDPAD_DOWN
+// Switch Left
+LeftButtonDPAD_LEFT
+// Switch Right
+LeftButtonDPAD_RIGHT
+// Switch Up
+LeftButtonDPAD_UP
+// Switch RightStick
+LeftButtonSMA
+// Switch LeftStick
+LeftButtonSHOULDER_2
+// Switch A
+LeftButtonSHOULDER_1
+// Switch Back
+mWSButtonStateOne
+// Switch Start
+mWSLeftButtonTC
+// Switch X
+mWSButtonStateHFront
+// Switch RightBumper
+mWSButtonStatePU
+// Switch LeftBumper
+mWSButtonStateMU
+// Switch B
+mWSButtonStateDown
+// Switch Y
+mWSButtonStateLR
+// Switch RightTrigger
+mWSButtonStateB
+// Switch LeftTrigger
+mWSButtonStateA
+// left stick right
+none
+// left stick left
+none
+// left stick up
+none
+// left stick down
+none
+// right stick right
+none
+// right stick left
+none
+// right stick up
+none
+// right stick down
+none
+// left stick x
+leftstickx
+// left stick y
+leftsticky
+// right stick x
+irx
+// right stick y
+iry
+// switch left stick right
+none
+// switch left stick left
+none
+// switch left stick up
+none
+// switch left stick down
+none
+// switch right stick right
+none
+// switch right stick left
+none
+// switch right stick up
+none
+// switch right stick down
+none
+// switch left stick x
+irx
+// switch left stick y
+iry
+// switch right stick x
+leftstickx
+// switch right stick y
+leftsticky
+// Control
+S
+// viewpower05x
+0
+// viewpower1x
+0
+// viewpower2x
+0.15
+// viewpower3x
+0.85
+// viewpower05y
+0
+// viewpower1y
+0
+// viewpower2y
+0.15
+// viewpower3y
+0.85
+// pollrate
+10
+// dzx
+0.0
+// dzy
+0.0
+// lowsensx
+1
+// lowsensy
+1
+// lowsensbrinkaex
+600
+// lowsensbrinkaey
+400
+// brink
+True
+// mw3
+True
+// mw3ae
+False
+// brinkae
+False
+// desktop
+True
+// centery
+140
+// driver type
+sendinput
+// SendMouseEventButtonLeft
+mWSButtonStateB
+// SendMouseEventButtonRight
+mWSButtonStateA
+// SendMouseEventButtonMiddle
+none
+// SendMouseEventButtonWheelUp
+none
+// SendMouseEventButtonWheelDown
+none
+// VK_LEFT
+none
+// VK_RIGHT
+none
+// VK_UP
+none
+// VK_DOWN
+none
+// VK_LBUTTON
+none
+// VK_RBUTTON
+none
+// VK_CANCEL
+none
+// VK_MBUTTON
+none
+// VK_XBUTTON1
+none
+// VK_XBUTTON2
+none
+// VK_BACK
+none
+// VK_Tab
+none
+// VK_CLEAR
+none
+// VK_Return
+mWSButtonStateOne
+// VK_SHIFT
+none
+// VK_CONTROL
+none
+// VK_MENU
+none
+// VK_PAUSE
+none
+// VK_CAPITAL
+none
+// VK_KANA
+none
+// VK_HANGEUL
+none
+// VK_HANGUL
+none
+// VK_JUNJA
+none
+// VK_FINAL
+none
+// VK_HANJA
+none
+// VK_KANJI
+none
+// VK_Escape
+mWSButtonStateTwo
+// VK_CONVERT
+none
+// VK_NONCONVERT
+none
+// VK_ACCEPT
+none
+// VK_MODECHANGE
+none
+// VK_Space
+LeftButtonSHOULDER_1
+// VK_PRIOR
+none
+// VK_NEXT
+none
+// VK_END
+none
+// VK_HOME
+none
+// VK_LEFT
+none
+// VK_UP
+none
+// VK_RIGHT
+none
+// VK_DOWN
+none
+// VK_SELECT
+none
+// VK_PRINT
+none
+// VK_EXECUTE
+none
+// VK_SNAPSHOT
+none
+// VK_INSERT
+none
+// VK_DELETE
+none
+// VK_HELP
+none
+// VK_APOSTROPHE
+none
+// VK_0
+none
+// VK_1
+LeftButtonDPAD_UP
+// VK_2
+LeftButtonDPAD_LEFT
+// VK_3
+LeftButtonDPAD_DOWN
+// VK_4
+LeftButtonDPAD_RIGHT
+// VK_5
+none
+// VK_6
+none
+// VK_7
+none
+// VK_8
+none
+// VK_9
+none
+// VK_A
+none
+// VK_B
+none
+// VK_C
+mWSButtonStateDown
+// VK_D
+LeftButtonStickRight
+// VK_E
+none
+// VK_F
+mWSButtonStateHome
+// VK_G
+mWSButtonStatePlus
+// VK_H
+none
+// VK_I
+none
+// VK_J
+none
+// VK_K
+none
+// VK_L
+none
+// VK_M
+none
+// VK_N
+none
+// VK_O
+none
+// VK_P
+none
+// VK_Q
+LeftButtonStickLeft
+// VK_R
+mWSButtonStateFront
+// VK_S
+LeftButtonStickDown
+// VK_T
+mWSButtonStateMinus
+// VK_U
+mWSButtonStateRight
+// VK_V
+LeftButtonSMA
+// VK_W
+none
+// VK_X
+mWSButtonStateUp
+// VK_Y
+mWSButtonStateLeft
+// VK_Z
+LeftButtonStickUp
+// VK_LWIN
+none
+// VK_RWIN
+none
+// VK_APPS
+none
+// VK_SLEEP
+none
+// VK_NUMPAD0
+none
+// VK_NUMPAD1
+none
+// VK_NUMPAD2
+none
+// VK_NUMPAD3
+none
+// VK_NUMPAD4
+none
+// VK_NUMPAD5
+none
+// VK_NUMPAD6
+none
+// VK_NUMPAD7
+none
+// VK_NUMPAD8
+none
+// VK_NUMPAD9
+none
+// VK_MULTIPLY
+none
+// VK_ADD
+none
+// VK_SEPARATOR
+none
+// VK_SUBTRACT
+none
+// VK_DECIMAL
+none
+// VK_DIVIDE
+none
+// VK_F1
+none
+// VK_F2
+none
+// VK_F3
+none
+// VK_F4
+none
+// VK_F5
+none
+// VK_F6
+none
+// VK_F7
+none
+// VK_F8
+none
+// VK_F9
+none
+// VK_F10
+none
+// VK_F11
+none
+// VK_F12
+none
+// VK_F13
+none
+// VK_F14
+none
+// VK_F15
+none
+// VK_F16
+none
+// VK_F17
+none
+// VK_F18
+none
+// VK_F19
+none
+// VK_F20
+none
+// VK_F21
+none
+// VK_F22
+none
+// VK_F23
+none
+// VK_F24
+none
+// VK_NUMLOCK
+none
+// VK_SCROLL
+none
+// VK_LeftShift
+LeftButtonSHOULDER_2
+// VK_RightShift
+none
+// VK_LeftControl
+none
+// VK_RightControl
+none
+// VK_LMENU
+none
+// VK_RMENU
+none
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

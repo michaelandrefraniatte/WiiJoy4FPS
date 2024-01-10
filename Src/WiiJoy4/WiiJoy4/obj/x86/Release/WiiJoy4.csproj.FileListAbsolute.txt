@@ -1,0 +1,21 @@
+C:\Users\Mic\Documents\Visual Studio 2012\Projects\WiiJoyByMic - C#\WiiJoy4\WiiJoy4\bin\x86\Release\WiiJoy4.exe.config
+C:\Users\Mic\Documents\Visual Studio 2012\Projects\WiiJoyByMic - C#\WiiJoy4\WiiJoy4\bin\x86\Release\WiiJoy4.exe
+C:\Users\Mic\Documents\Visual Studio 2012\Projects\WiiJoyByMic - C#\WiiJoy4\WiiJoy4\bin\x86\Release\WiiJoy4.pdb
+C:\Users\Mic\Documents\Visual Studio 2012\Projects\WiiJoyByMic - C#\WiiJoy4\WiiJoy4\obj\x86\Release\WiiJoy4.Form1.resources
+C:\Users\Mic\Documents\Visual Studio 2012\Projects\WiiJoyByMic - C#\WiiJoy4\WiiJoy4\obj\x86\Release\WiiJoy4.Properties.Resources.resources
+C:\Users\Mic\Documents\Visual Studio 2012\Projects\WiiJoyByMic - C#\WiiJoy4\WiiJoy4\obj\x86\Release\WiiJoy4.csproj.GenerateResource.Cache
+C:\Users\Mic\Documents\Visual Studio 2012\Projects\WiiJoyByMic - C#\WiiJoy4\WiiJoy4\obj\x86\Release\WiiJoy4.exe
+C:\Users\Mic\Documents\Visual Studio 2012\Projects\WiiJoyByMic - C#\WiiJoy4\WiiJoy4\obj\x86\Release\WiiJoy4.pdb
+C:\Users\Mic\Documents\Visual Studio 2012\Projects\WiiJoyByMic - C#\WiiJoy4\WiiJoy4\obj\x86\Release\WiiJoy4.csprojResolveAssemblyReference.cache
+C:\Users\Mic\Documents\Visual Studio 2012\Projects\WiiJoyByMic - C# - Copie (9)\WiiJoy4\WiiJoy4\bin\x86\Release\WiiJoy4.exe.config
+C:\Users\Mic\Documents\Visual Studio 2012\Projects\WiiJoyByMic - C# - Copie (9)\WiiJoy4\WiiJoy4\obj\x86\Release\WiiJoy4.exe
+C:\Users\Mic\Documents\Visual Studio 2012\Projects\WiiJoyByMic - C# - Copie (9)\WiiJoy4\WiiJoy4\obj\x86\Release\WiiJoy4.pdb
+C:\Users\Mic\Documents\Visual Studio 2012\Projects\WiiJoyByMic - C# - Copie (9)\WiiJoy4\WiiJoy4\bin\x86\Release\WiiJoy4.exe
+C:\Users\Mic\Documents\Visual Studio 2012\Projects\WiiJoyByMic - C# - Copie (9)\WiiJoy4\WiiJoy4\bin\x86\Release\WiiJoy4.pdb
+C:\Users\Mic\Documents\Visual Studio 2012\Projects\WiiJoyByMic - C# - Copie (9)\WiiJoy4\WiiJoy4\obj\x86\Release\WiiJoy4.csprojResolveAssemblyReference.cache
+C:\Users\Mic\Documents\Visual Studio 2012\Projects\WiiJoyByMic - C# - Copie (9)\WiiJoy4\WiiJoy4\obj\x86\Release\WiiJoy4.Form1.resources
+C:\Users\Mic\Documents\Visual Studio 2012\Projects\WiiJoyByMic - C# - Copie (9)\WiiJoy4\WiiJoy4\obj\x86\Release\WiiJoy4.Properties.Resources.resources
+C:\Users\Mic\Documents\Visual Studio 2012\Projects\WiiJoyByMic - C# - Copie (9)\WiiJoy4\WiiJoy4\obj\x86\Release\WiiJoy4.csproj.GenerateResource.Cache
+C:\Users\Mic\Documents\Visual Studio 2012\Projects\WiiJoyByMic - C# - Copie (13)\WiiJoy4\WiiJoy4\bin\x86\Release\WiiJoy4.exe.config
+C:\Users\Mic\Documents\Visual Studio 2012\Projects\WiiJoyByMic - C# - Copie (13)\WiiJoy4\WiiJoy4\obj\x86\Release\WiiJoy4.exe
+C:\Users\Mic\Documents\Visual Studio 2012\Projects\WiiJoyByMic - C# - Copie (13)\WiiJoy4\WiiJoy4\obj\x86\Release\WiiJoy4.pdb

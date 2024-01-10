@@ -1,0 +1,13 @@
+C:\Users\mic\Documents\GitHub\crappy-scripts\Src\Scripts\form\xbox360controller\WiiJoyWarzone\WiiJoyWarzone\bin\Release\WiiJoyWarzone.exe.config
+C:\Users\mic\Documents\GitHub\crappy-scripts\Src\Scripts\form\xbox360controller\WiiJoyWarzone\WiiJoyWarzone\bin\Release\WiiJoyWarzone.exe
+C:\Users\mic\Documents\GitHub\crappy-scripts\Src\Scripts\form\xbox360controller\WiiJoyWarzone\WiiJoyWarzone\bin\Release\WiiJoyWarzone.pdb
+C:\Users\mic\Documents\GitHub\crappy-scripts\Src\Scripts\form\xbox360controller\WiiJoyWarzone\WiiJoyWarzone\bin\Release\controller.dll
+C:\Users\mic\Documents\GitHub\crappy-scripts\Src\Scripts\form\xbox360controller\WiiJoyWarzone\WiiJoyWarzone\bin\Release\controller.pdb
+C:\Users\mic\Documents\GitHub\crappy-scripts\Src\Scripts\form\xbox360controller\WiiJoyWarzone\WiiJoyWarzone\obj\Release\WiiJoyWarzone.csprojAssemblyReference.cache
+C:\Users\mic\Documents\GitHub\crappy-scripts\Src\Scripts\form\xbox360controller\WiiJoyWarzone\WiiJoyWarzone\obj\Release\WiiJoyWarzone.Form1.resources
+C:\Users\mic\Documents\GitHub\crappy-scripts\Src\Scripts\form\xbox360controller\WiiJoyWarzone\WiiJoyWarzone\obj\Release\WiiJoyWarzone.Properties.Resources.resources
+C:\Users\mic\Documents\GitHub\crappy-scripts\Src\Scripts\form\xbox360controller\WiiJoyWarzone\WiiJoyWarzone\obj\Release\WiiJoyWarzone.csproj.GenerateResource.cache
+C:\Users\mic\Documents\GitHub\crappy-scripts\Src\Scripts\form\xbox360controller\WiiJoyWarzone\WiiJoyWarzone\obj\Release\WiiJoyWarzone.csproj.CoreCompileInputs.cache
+C:\Users\mic\Documents\GitHub\crappy-scripts\Src\Scripts\form\xbox360controller\WiiJoyWarzone\WiiJoyWarzone\obj\Release\WiiJoyWarzone.csproj.CopyComplete
+C:\Users\mic\Documents\GitHub\crappy-scripts\Src\Scripts\form\xbox360controller\WiiJoyWarzone\WiiJoyWarzone\obj\Release\WiiJoyWarzone.exe
+C:\Users\mic\Documents\GitHub\crappy-scripts\Src\Scripts\form\xbox360controller\WiiJoyWarzone\WiiJoyWarzone\obj\Release\WiiJoyWarzone.pdb

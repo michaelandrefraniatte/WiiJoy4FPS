@@ -1,0 +1,223 @@
+WiiJoy4AW2019.txt
+//mouse control
+                public static int[] wd = { 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2 };
+                public static int[] wu = { 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2 };
+                public static bool[] _Valuechanged = new bool[2], _valuechanged = new bool[2];
+                public double mousex, mousey, mousexp, mouseyp, irx, iry, deadzone = 27f, zoning = 250f, hardness = 300f, center = 200f, max = 1900f;
+                public void Main(double mWSNunchuckStateRawJoystickX, double mWSNunchuckStateRawJoystickY, double mWSNunchuckStateRawValuesX, double mWSNunchuckStateRawValuesY, double mWSNunchuckStateRawValuesZ, bool mWSNunchuckStateC, bool mWSNunchuckStateZ, 
+                double mWSButtonStateIRX, double mWSButtonStateIRY, bool mWSButtonStateA, bool mWSButtonStateB, bool mWSButtonStateMinus, bool mWSButtonStateHome, bool mWSButtonStatePlus, bool mWSButtonStateOne, bool mWSButtonStateTwo, bool mWSButtonStateUp, bool mWSButtonStateDown, bool mWSButtonStateLeft, bool mWSButtonStateRight, double mWSRawValuesX, double mWSRawValuesY, double mWSRawValuesZ, 
+                float EulerAnglesX, float EulerAnglesY, float EulerAnglesZ, float DirectAnglesX, float DirectAnglesY, float DirectAnglesZ, double camx, double camy, float EulerAnglesLeftX, float EulerAnglesLeftY, float EulerAnglesLeftZ, float DirectAnglesLeftX, float DirectAnglesLeftY, float DirectAnglesLeftZ, float EulerAnglesRightX, float EulerAnglesRightY, float EulerAnglesRightZ, 
+                float DirectAnglesRightX, float DirectAnglesRightY, float DirectAnglesRightZ, bool LeftButtonSHOULDER_1, bool LeftButtonMINUS, bool LeftButtonCAPTURE, bool LeftButtonDPAD_UP, bool LeftButtonDPAD_LEFT, bool LeftButtonDPAD_DOWN, bool LeftButtonDPAD_RIGHT, bool LeftButtonSTICK, bool RightButtonDPAD_DOWN, bool LeftButtonSL, bool LeftButtonSR, double GetStickLeftX, double GetStickLeftY, 
+                bool RightButtonPLUS, bool RightButtonDPAD_RIGHT, bool RightButtonHOME, bool RightButtonSHOULDER_1, bool RightButtonDPAD_LEFT, bool RightButtonDPAD_UP, bool RightButtonSTICK, bool RightButtonSL, bool RightButtonSR, bool RightButtonSHOULDER_2, bool LeftButtonSHOULDER_2, double GetStickRightX, double GetStickRightY, float GetAccelX, float GetAccelY, float GetAccelZ, float GetAccelRightX, float GetAccelRightY, float GetAccelRightZ, float GetAccelLeftX, float GetAccelLeftY, float GetAccelLeftZ, 
+                int MouseHookX, int MouseHookY, int MouseHookWheel, bool MouseHookLeftButton, bool MouseHookRightButton, bool MouseHookDoubleClick, bool MouseHookMiddleButton, double watchM)
+                { 
+                        irx = (mWSButtonStateIRX >= 0 ? Scale(mWSButtonStateIRX, 0f, 1360f, 0f, 1500f) : Scale(mWSButtonStateIRX, -1360f, 0f, -1500f, 0f));
+                        iry = (mWSButtonStateIRY + center >= 0 ? Scale(mWSButtonStateIRY + center, 0f, 768f + center, 0f, max) : Scale(mWSButtonStateIRY + center, -768f + center, 0f, -max, 0f));
+                        mousex = Math.Pow(irx > 0 ? irx : -irx, zoning / 100f) * (1500f / Math.Pow(1500f, zoning / 100f)) * (irx > 0 ? 1f : -1f) * (-deadzone / 100f + 1f);
+                        mousey = Math.Pow(iry > 0 ? iry : -iry, zoning * (1500f / max) / 100f) * (max / Math.Pow(max, zoning * (1500f / max) / 100f)) * (iry > 0 ? 1f : -1f) * (-deadzone / 100f + 1f);
+                        mousexp += mousex * watchM / 40f;
+                        mouseyp += mousey * watchM / 40f;
+                        input.MoveMouseTo((int)(32767.5f - (mousex * hardness) / 100f - mousexp), (int)((mousey * hardness) / 100f + mouseyp + 32767.5f), 12);
+		            System.Threading.Thread.Sleep(1);
+                } 
+                private double Scale(double value, double min, double max, double minScale, double maxScale)
+                {
+                    double scaled = minScale + (double)(value - min) / (max - min) * (maxScale - minScale);
+                    return scaled;
+                }
+
+//keyboard control
+                public static int[] wd = { 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2 };
+                public static int[] wu = { 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2 };
+                public static bool[] _Valuechanged = new bool[36], _valuechanged = new bool[36];
+                public bool foraorcison, mWSButtonStateAio, randA, ApressIO = true, HomeFTG = false;
+                public void Main(double mWSNunchuckStateRawJoystickX, double mWSNunchuckStateRawJoystickY, double mWSNunchuckStateRawValuesX, double mWSNunchuckStateRawValuesY, double mWSNunchuckStateRawValuesZ, bool mWSNunchuckStateC, bool mWSNunchuckStateZ, 
+                double mWSButtonStateIRX, double mWSButtonStateIRY, bool mWSButtonStateA, bool mWSButtonStateB, bool mWSButtonStateMinus, bool mWSButtonStateHome, bool mWSButtonStatePlus, bool mWSButtonStateOne, bool mWSButtonStateTwo, bool mWSButtonStateUp, bool mWSButtonStateDown, bool mWSButtonStateLeft, bool mWSButtonStateRight, double mWSRawValuesX, double mWSRawValuesY, double mWSRawValuesZ, 
+                float EulerAnglesX, float EulerAnglesY, float EulerAnglesZ, float DirectAnglesX, float DirectAnglesY, float DirectAnglesZ, double camx, double camy, float EulerAnglesLeftX, float EulerAnglesLeftY, float EulerAnglesLeftZ, float DirectAnglesLeftX, float DirectAnglesLeftY, float DirectAnglesLeftZ, float EulerAnglesRightX, float EulerAnglesRightY, float EulerAnglesRightZ, 
+                float DirectAnglesRightX, float DirectAnglesRightY, float DirectAnglesRightZ, bool LeftButtonSHOULDER_1, bool LeftButtonMINUS, bool LeftButtonCAPTURE, bool LeftButtonDPAD_UP, bool LeftButtonDPAD_LEFT, bool LeftButtonDPAD_DOWN, bool LeftButtonDPAD_RIGHT, bool LeftButtonSTICK, bool RightButtonDPAD_DOWN, bool LeftButtonSL, bool LeftButtonSR, double GetStickLeftX, double GetStickLeftY, 
+                bool RightButtonPLUS, bool RightButtonDPAD_RIGHT, bool RightButtonHOME, bool RightButtonSHOULDER_1, bool RightButtonDPAD_LEFT, bool RightButtonDPAD_UP, bool RightButtonSTICK, bool RightButtonSL, bool RightButtonSR, bool RightButtonSHOULDER_2, bool LeftButtonSHOULDER_2, double GetStickRightX, double GetStickRightY, float GetAccelX, float GetAccelY, float GetAccelZ, float GetAccelRightX, float GetAccelRightY, float GetAccelRightZ, float GetAccelLeftX, float GetAccelLeftY, float GetAccelLeftZ, 
+                int MouseHookX, int MouseHookY, int MouseHookWheel, bool MouseHookLeftButton, bool MouseHookRightButton, bool MouseHookDoubleClick, bool MouseHookMiddleButton, double watchM)
+                { 
+                    this[2] = LeftButtonSHOULDER_2;
+                    if (_Valuechanged[2] & this[2])
+                        SimulateKeyDown(VK_LeftControl, S_LeftControl);
+                    if (_Valuechanged[2] & !this[2])
+                        SimulateKeyUp(VK_LeftControl, S_LeftControl);
+                    this[3] = LeftButtonMINUS;
+                    if (_Valuechanged[3] & this[3])
+                        SimulateKeyDown(VK_Return, S_Return);
+                    if (_Valuechanged[3] & !this[3])
+                        SimulateKeyUp(VK_Return, S_Return);
+                    this[4] = (GetAccelLeftX > 1.5f | GetAccelLeftX < -1.5f) & !((mWSRawValuesZ > 0 ? mWSRawValuesZ : -mWSRawValuesZ) >= 40f & (mWSRawValuesY > 0 ? mWSRawValuesY : -mWSRawValuesY) >= 40f & (mWSRawValuesX > 0 ? mWSRawValuesX : -mWSRawValuesX) >= 40f);
+                    if (_Valuechanged[4] & this[4])
+                        SimulateKeyDown(VK_V, S_V);
+                    if (_Valuechanged[4] & !this[4])
+                        SimulateKeyUp(VK_V, S_V);
+                    this[27] = LeftButtonCAPTURE;
+                    if (_Valuechanged[27] & this[27])
+                        SimulateKeyDown(VK_P, S_P);
+                    if (_Valuechanged[27] & !this[27])
+                        SimulateKeyUp(VK_P, S_P);
+                    this[5] = LeftButtonDPAD_UP;
+                    if (_Valuechanged[5] & this[5])
+                        SimulateKeyDownArrows(VK_UP, S_UP);
+                    if (_Valuechanged[5] & !this[5])
+                        SimulateKeyUpArrows(VK_UP, S_UP);
+                    this[6] = LeftButtonDPAD_LEFT;
+                    if (_Valuechanged[6] & this[6])
+                        SimulateKeyDownArrows(VK_LEFT, S_LEFT);
+                    if (_Valuechanged[6] & !this[6])
+                        SimulateKeyUpArrows(VK_LEFT, S_LEFT);
+                    this[7] = LeftButtonDPAD_DOWN;
+                    if (_Valuechanged[7] & this[7])
+                        SimulateKeyDownArrows(VK_DOWN, S_DOWN);
+                    if (_Valuechanged[7] & !this[7])
+                        SimulateKeyUpArrows(VK_DOWN, S_DOWN);
+                    this[8] = LeftButtonDPAD_RIGHT;
+                    if (_Valuechanged[8] & this[8])
+                        SimulateKeyDownArrows(VK_RIGHT, S_RIGHT);
+                    if (_Valuechanged[8] & !this[8])
+                        SimulateKeyUpArrows(VK_RIGHT, S_RIGHT);
+                    this[9] = LeftButtonSTICK;
+                    if (_Valuechanged[9] & this[9])
+                        SimulateKeyDown(VK_LeftShift, S_LeftShift);
+                    if (_Valuechanged[9] & !this[9])
+                        SimulateKeyUp(VK_LeftShift, S_LeftShift);
+                    this[10] = LeftButtonSHOULDER_1;
+                    if (_Valuechanged[10] & this[10])
+                        SimulateKeyDown(VK_Space, S_Space);
+                    if (_Valuechanged[10] & !this[10])
+                        SimulateKeyUp(VK_Space, S_Space);
+                    this[29] = LeftButtonSL;
+                    if (_Valuechanged[29] & this[29])
+                        SimulateKeyDown(VK_B, S_B);
+                    if (_Valuechanged[29] & !this[29])
+                        SimulateKeyUp(VK_B, S_B);
+                    this[28] = LeftButtonSR;
+                    if (_Valuechanged[28] & this[28])
+                        SimulateKeyDown(VK_N, S_N);
+                    if (_Valuechanged[28] & !this[28])
+                        SimulateKeyUp(VK_N, S_N);
+                    this[16] = GetStickLeftX > 0.33f;
+                    this[17] = GetStickLeftX < -0.33f;
+                    this[18] = GetStickLeftY > 0.33f;
+                    this[19] = GetStickLeftY < -0.33f;
+                    if (_Valuechanged[16] & this[16])
+                        SimulateKeyDown(VK_D, S_D);
+                    if (_Valuechanged[16] & !this[16])
+                        SimulateKeyUp(VK_D, S_D);
+                    if (_Valuechanged[17] & this[17])
+                        SimulateKeyDown(VK_Q, S_Q);
+                    if (_Valuechanged[17] & !this[17])
+                        SimulateKeyUp(VK_Q, S_Q);
+                    if (_Valuechanged[18] & this[18])
+                        SimulateKeyDown(VK_Z, S_Z);
+                    if (_Valuechanged[18] & !this[18])
+                        SimulateKeyUp(VK_Z, S_Z);
+                    if (_Valuechanged[19] & this[19])
+                        SimulateKeyDown(VK_S, S_S);
+                    if (_Valuechanged[19] & !this[19])
+                        SimulateKeyUp(VK_S, S_S);
+                    this[30] = DirectAnglesLeftY <= -0.666f;
+                    if (_Valuechanged[30] & this[30])
+                        SimulateKeyDown(VK_A, S_A);
+                    if (_Valuechanged[30] & !this[30])
+                        SimulateKeyUp(VK_A, S_A);
+                    this[31] = DirectAnglesLeftY >= 0.666f;
+                    if (_Valuechanged[31] & this[31])
+                        SimulateKeyDown(VK_E, S_E);
+                    if (_Valuechanged[31] & !this[31])
+                        SimulateKeyUp(VK_E, S_E);
+                    this[13] = (mWSRawValuesZ > 0 ? mWSRawValuesZ : -mWSRawValuesZ) >= 40f & (mWSRawValuesY > 0 ? mWSRawValuesY : -mWSRawValuesY) >= 40f & (mWSRawValuesX > 0 ? mWSRawValuesX : -mWSRawValuesX) >= 40f;
+                    if (_Valuechanged[13] & this[13])
+                        SimulateKeyDown(VK_R, S_R);
+                    if (_Valuechanged[13] & !this[13])
+                        SimulateKeyUp(VK_R, S_R);
+                    this[20] = mWSButtonStateOne;
+                    if (_Valuechanged[20] & this[20])
+                        SimulateKeyDown(VK_Tab, S_Tab);
+                    if (_Valuechanged[20] & !this[20])
+                        SimulateKeyUp(VK_Tab, S_Tab);
+                    this[21] = mWSButtonStateDown;
+                    if (_Valuechanged[21] & this[21])
+                        SimulateKeyDown(VK_C, S_C);
+                    if (_Valuechanged[21] & !this[21])
+                        SimulateKeyUp(VK_C, S_C);
+                    this[22] = mWSButtonStateHome;
+                    if (_Valuechanged[22] & this[22])
+                        SimulateKeyDown(VK_F, S_F);
+                    if (_Valuechanged[22] & !this[22])
+                        SimulateKeyUp(VK_F, S_F);
+                    this[23] = mWSButtonStateRight;
+                    if (_Valuechanged[23] & this[23])
+                        SimulateKeyDown(VK_U, S_U);
+                    if (_Valuechanged[23] & !this[23])
+                        SimulateKeyUp(VK_U, S_U);
+                    this[24] = mWSButtonStateLeft;
+                    if (_Valuechanged[24] & this[24])
+                        SimulateKeyDown(VK_Y, S_Y);
+                    if (_Valuechanged[24] & !this[24])
+                        SimulateKeyUp(VK_Y, S_Y);
+                    this[25] = mWSButtonStateUp;
+                    if (_Valuechanged[25] & this[25])
+                        SimulateKeyDown(VK_X, S_X);
+                    if (_Valuechanged[25] & !this[25])
+                        SimulateKeyUp(VK_X, S_X);
+                    this[26] = mWSButtonStateTwo;
+                    if (_Valuechanged[26] & this[26])
+                        SimulateKeyDown(VK_Escape, S_Escape);
+                    if (_Valuechanged[26] & !this[26])
+                        SimulateKeyUp(VK_Escape, S_Escape);
+                    this[14] = mWSButtonStatePlus | (HomeFTG & mWSButtonStateHome);
+                    if (_Valuechanged[14] & this[14])
+                        SimulateKeyDown(VK_G, S_G);
+                    if (_Valuechanged[14] & !this[14])
+                        SimulateKeyUp(VK_G, S_G);
+                    this[15] = mWSButtonStateMinus | (HomeFTG & mWSButtonStateHome);
+                    if (_Valuechanged[15] & this[15])
+                        SimulateKeyDown(VK_T, S_T);
+                    if (_Valuechanged[15] & !this[15])
+                        SimulateKeyUp(VK_T, S_T);
+                    this[11] = mWSButtonStateB;
+                    if (_Valuechanged[11] & this[11])
+                        LeftClick();
+                    if (_Valuechanged[11] & !this[11])
+                        LeftClickF();
+                    if (ApressIO)
+                    {
+                        foraorcison = (mWSButtonStateMinus | mWSButtonStatePlus | mWSButtonStateHome | ((mWSRawValuesZ > 0 ? mWSRawValuesZ : -mWSRawValuesZ) >= 40f & (mWSRawValuesY > 0 ? mWSRawValuesY : -mWSRawValuesY) >= 40f & (mWSRawValuesX > 0 ? mWSRawValuesX : -mWSRawValuesX) >= 40f) | mWSButtonStateUp | mWSButtonStateDown | mWSButtonStateLeft | mWSButtonStateRight);
+                        this[32] = mWSButtonStateA;
+                        if (_Valuechanged[32] & this[32])
+                            if (!randA)
+                            {
+                                mWSButtonStateAio = true;
+                                randA = true;
+                            }
+                            else
+                                if (randA)
+                                {
+                                    mWSButtonStateAio = false;
+                                    randA = false;
+                                }
+                        if (mWSButtonStateAio & foraorcison)
+                        {
+                            mWSButtonStateAio = false;
+                            randA = false;
+                        }
+                        this[33] = mWSButtonStateAio | (mWSButtonStateA & foraorcison);
+                        if (_Valuechanged[33] & this[33])
+                            RightClick();
+                        if (_Valuechanged[33] & !this[33])
+                            RightClickF();
+                    }
+                    else
+                    {
+                        this[34] = mWSButtonStateA;
+                        if (_Valuechanged[34] & this[34])
+                            RightClick();
+                        if (_Valuechanged[34] & !this[34])
+                            RightClickF();
+                    }
+		            System.Threading.Thread.Sleep(1);
+                }
+

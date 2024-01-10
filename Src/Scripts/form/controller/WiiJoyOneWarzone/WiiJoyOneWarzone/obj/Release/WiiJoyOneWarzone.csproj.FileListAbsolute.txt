@@ -1,0 +1,13 @@
+C:\Users\mic\Documents\GitHub\crappy-scripts\Src\Scripts\form\xbox360controller\WiiJoyOneWarzone\WiiJoyOneWarzone\bin\Release\WiiJoyOneWarzone.exe.config
+C:\Users\mic\Documents\GitHub\crappy-scripts\Src\Scripts\form\xbox360controller\WiiJoyOneWarzone\WiiJoyOneWarzone\bin\Release\WiiJoyOneWarzone.exe
+C:\Users\mic\Documents\GitHub\crappy-scripts\Src\Scripts\form\xbox360controller\WiiJoyOneWarzone\WiiJoyOneWarzone\bin\Release\WiiJoyOneWarzone.pdb
+C:\Users\mic\Documents\GitHub\crappy-scripts\Src\Scripts\form\xbox360controller\WiiJoyOneWarzone\WiiJoyOneWarzone\bin\Release\controller.dll
+C:\Users\mic\Documents\GitHub\crappy-scripts\Src\Scripts\form\xbox360controller\WiiJoyOneWarzone\WiiJoyOneWarzone\bin\Release\controller.pdb
+C:\Users\mic\Documents\GitHub\crappy-scripts\Src\Scripts\form\xbox360controller\WiiJoyOneWarzone\WiiJoyOneWarzone\obj\Release\WiiJoyOneWarzone.csprojAssemblyReference.cache
+C:\Users\mic\Documents\GitHub\crappy-scripts\Src\Scripts\form\xbox360controller\WiiJoyOneWarzone\WiiJoyOneWarzone\obj\Release\WiiJoyOneWarzone.Form1.resources
+C:\Users\mic\Documents\GitHub\crappy-scripts\Src\Scripts\form\xbox360controller\WiiJoyOneWarzone\WiiJoyOneWarzone\obj\Release\WiiJoyOneWarzone.Properties.Resources.resources
+C:\Users\mic\Documents\GitHub\crappy-scripts\Src\Scripts\form\xbox360controller\WiiJoyOneWarzone\WiiJoyOneWarzone\obj\Release\WiiJoyOneWarzone.csproj.GenerateResource.cache
+C:\Users\mic\Documents\GitHub\crappy-scripts\Src\Scripts\form\xbox360controller\WiiJoyOneWarzone\WiiJoyOneWarzone\obj\Release\WiiJoyOneWarzone.csproj.CoreCompileInputs.cache
+C:\Users\mic\Documents\GitHub\crappy-scripts\Src\Scripts\form\xbox360controller\WiiJoyOneWarzone\WiiJoyOneWarzone\obj\Release\WiiJoyOneWarzone.csproj.CopyComplete
+C:\Users\mic\Documents\GitHub\crappy-scripts\Src\Scripts\form\xbox360controller\WiiJoyOneWarzone\WiiJoyOneWarzone\obj\Release\WiiJoyOneWarzone.exe
+C:\Users\mic\Documents\GitHub\crappy-scripts\Src\Scripts\form\xbox360controller\WiiJoyOneWarzone\WiiJoyOneWarzone\obj\Release\WiiJoyOneWarzone.pdb

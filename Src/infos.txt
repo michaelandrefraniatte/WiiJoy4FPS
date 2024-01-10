@@ -1,0 +1,2 @@
+For certain joycons like from freaks and geeks, you need to let pressed sync button until led blinking start to slow down and also you need to allow connection by clicking on Windows notification to connect it
+There's a version of WiiJoy for CoD adapted for Joycon left from freaks and geeks corresponding to stick sensitivity, and another version with Joycon from Nintendo allowing to use values of a generic joystick, not allowed by Joycon from freaks and geeks

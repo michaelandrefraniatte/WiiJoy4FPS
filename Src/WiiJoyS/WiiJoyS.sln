@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WiiJoyS", "WiiJoyS\WiiJoyS.csproj", "{FC450A58-978C-4402-AF3A-80EFD02FB75D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC450A58-978C-4402-AF3A-80EFD02FB75D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC450A58-978C-4402-AF3A-80EFD02FB75D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC450A58-978C-4402-AF3A-80EFD02FB75D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC450A58-978C-4402-AF3A-80EFD02FB75D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF88149E-7D83-4377-8049-ED0A19DD8B65}
+	EndGlobalSection
+EndGlobal

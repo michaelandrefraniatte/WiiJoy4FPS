@@ -1,0 +1,13 @@
+C:\Users\mic\Documents\GitHub\crappy-scripts\Src\Scripts\form\xbox360controller\WiiJoyHorizonZeroDawn\WiiJoyHorizonZeroDawn\bin\Release\WiiJoyHorizonZeroDawn.exe.config
+C:\Users\mic\Documents\GitHub\crappy-scripts\Src\Scripts\form\xbox360controller\WiiJoyHorizonZeroDawn\WiiJoyHorizonZeroDawn\bin\Release\WiiJoyHorizonZeroDawn.exe
+C:\Users\mic\Documents\GitHub\crappy-scripts\Src\Scripts\form\xbox360controller\WiiJoyHorizonZeroDawn\WiiJoyHorizonZeroDawn\bin\Release\WiiJoyHorizonZeroDawn.pdb
+C:\Users\mic\Documents\GitHub\crappy-scripts\Src\Scripts\form\xbox360controller\WiiJoyHorizonZeroDawn\WiiJoyHorizonZeroDawn\bin\Release\controller.dll
+C:\Users\mic\Documents\GitHub\crappy-scripts\Src\Scripts\form\xbox360controller\WiiJoyHorizonZeroDawn\WiiJoyHorizonZeroDawn\bin\Release\controller.pdb
+C:\Users\mic\Documents\GitHub\crappy-scripts\Src\Scripts\form\xbox360controller\WiiJoyHorizonZeroDawn\WiiJoyHorizonZeroDawn\obj\Release\WiiJoyHorizonZeroDawn.csprojAssemblyReference.cache
+C:\Users\mic\Documents\GitHub\crappy-scripts\Src\Scripts\form\xbox360controller\WiiJoyHorizonZeroDawn\WiiJoyHorizonZeroDawn\obj\Release\WiiJoyHorizonZeroDawn.Form1.resources
+C:\Users\mic\Documents\GitHub\crappy-scripts\Src\Scripts\form\xbox360controller\WiiJoyHorizonZeroDawn\WiiJoyHorizonZeroDawn\obj\Release\WiiJoyHorizonZeroDawn.Properties.Resources.resources
+C:\Users\mic\Documents\GitHub\crappy-scripts\Src\Scripts\form\xbox360controller\WiiJoyHorizonZeroDawn\WiiJoyHorizonZeroDawn\obj\Release\WiiJoyHorizonZeroDawn.csproj.GenerateResource.cache
+C:\Users\mic\Documents\GitHub\crappy-scripts\Src\Scripts\form\xbox360controller\WiiJoyHorizonZeroDawn\WiiJoyHorizonZeroDawn\obj\Release\WiiJoyHorizonZeroDawn.csproj.CoreCompileInputs.cache
+C:\Users\mic\Documents\GitHub\crappy-scripts\Src\Scripts\form\xbox360controller\WiiJoyHorizonZeroDawn\WiiJoyHorizonZeroDawn\obj\Release\WiiJoyHorizonZeroDawn.csproj.CopyComplete
+C:\Users\mic\Documents\GitHub\crappy-scripts\Src\Scripts\form\xbox360controller\WiiJoyHorizonZeroDawn\WiiJoyHorizonZeroDawn\obj\Release\WiiJoyHorizonZeroDawn.exe
+C:\Users\mic\Documents\GitHub\crappy-scripts\Src\Scripts\form\xbox360controller\WiiJoyHorizonZeroDawn\WiiJoyHorizonZeroDawn\obj\Release\WiiJoyHorizonZeroDawn.pdb

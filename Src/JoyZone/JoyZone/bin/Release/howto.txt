@@ -1,0 +1,16 @@
+Tips and tricks :
+- It needs bluetooth device or bluetooth built in.
+- It needs official Joycons of the Switch console, with a Joycons Grip and a USB-C battery charger.
+- It's time to charge Joycons after 20 hours using, taking only 3 hours to total charge.
+- Joycons can be used in the Joycons Grip with the bluetooth connection.
+- It automatically pairs Joycon(s) when starting.
+- The sync button of Joycon is on one side needing to press more than 2 seconds.
+- To remove latency of Joycon left when using both Joycons, pressing sync button of Joycon right before pressing sync button of Joycon left is required.
+- At program start, it calibrates analogic values from the current positions. Joycons shall no moving just after connection of it, and before ready.
+- At program start, press Joycons buttons Capture and Home when program is minimized, inputs are enable.
+- Press Joycons buttons Capture and Home to enable/disable inputs.
+- Press Joycon Left Capture button or Joycon Right Home button to recenter gyros.
+- Changing mouse sensitivity in game options is required.
+- Setting game resolution the same as screen resolution of desktop is required.
+- It's better to change keys with game options if possible, for having easy to remember which keys to push, with the ingame helps.
+- Alt + Tab is used to navigate between windows, Alt + F4 is used to close a window, Alt + Enter is used to fullscreen a game window.

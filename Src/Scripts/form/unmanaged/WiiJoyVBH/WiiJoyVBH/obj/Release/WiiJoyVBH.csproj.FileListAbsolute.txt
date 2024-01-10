@@ -1,0 +1,11 @@
+C:\Users\mic\Documents\GitHub\WiiJoy\Src\scripts\form\unmanaged\WiiJoyVBH\WiiJoyVBH\bin\Release\WiiJoyVBH.exe.config
+C:\Users\mic\Documents\GitHub\WiiJoy\Src\scripts\form\unmanaged\WiiJoyVBH\WiiJoyVBH\bin\Release\WiiJoyVBH.exe
+C:\Users\mic\Documents\GitHub\WiiJoy\Src\scripts\form\unmanaged\WiiJoyVBH\WiiJoyVBH\bin\Release\WiiJoyVBH.pdb
+C:\Users\mic\Documents\GitHub\WiiJoy\Src\scripts\form\unmanaged\WiiJoyVBH\WiiJoyVBH\obj\Release\WiiJoyVBH.csproj.AssemblyReference.cache
+C:\Users\mic\Documents\GitHub\WiiJoy\Src\scripts\form\unmanaged\WiiJoyVBH\WiiJoyVBH\obj\Release\WiiJoyVBH.csproj.SuggestedBindingRedirects.cache
+C:\Users\mic\Documents\GitHub\WiiJoy\Src\scripts\form\unmanaged\WiiJoyVBH\WiiJoyVBH\obj\Release\WiiJoyVBH.Form1.resources
+C:\Users\mic\Documents\GitHub\WiiJoy\Src\scripts\form\unmanaged\WiiJoyVBH\WiiJoyVBH\obj\Release\WiiJoyVBH.Properties.Resources.resources
+C:\Users\mic\Documents\GitHub\WiiJoy\Src\scripts\form\unmanaged\WiiJoyVBH\WiiJoyVBH\obj\Release\WiiJoyVBH.csproj.GenerateResource.cache
+C:\Users\mic\Documents\GitHub\WiiJoy\Src\scripts\form\unmanaged\WiiJoyVBH\WiiJoyVBH\obj\Release\WiiJoyVBH.csproj.CoreCompileInputs.cache
+C:\Users\mic\Documents\GitHub\WiiJoy\Src\scripts\form\unmanaged\WiiJoyVBH\WiiJoyVBH\obj\Release\WiiJoyVBH.exe
+C:\Users\mic\Documents\GitHub\WiiJoy\Src\scripts\form\unmanaged\WiiJoyVBH\WiiJoyVBH\obj\Release\WiiJoyVBH.pdb

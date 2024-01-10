@@ -1,0 +1,13 @@
+C:\Users\mic\Documents\GitHub\crappy-scripts\Src\Scripts\form\xbox360controller\WiiJoyX\WiiJoyX\bin\Release\WiiJoyX.exe.config
+C:\Users\mic\Documents\GitHub\crappy-scripts\Src\Scripts\form\xbox360controller\WiiJoyX\WiiJoyX\bin\Release\WiiJoyX.exe
+C:\Users\mic\Documents\GitHub\crappy-scripts\Src\Scripts\form\xbox360controller\WiiJoyX\WiiJoyX\bin\Release\WiiJoyX.pdb
+C:\Users\mic\Documents\GitHub\crappy-scripts\Src\Scripts\form\xbox360controller\WiiJoyX\WiiJoyX\bin\Release\controller.dll
+C:\Users\mic\Documents\GitHub\crappy-scripts\Src\Scripts\form\xbox360controller\WiiJoyX\WiiJoyX\bin\Release\controller.pdb
+C:\Users\mic\Documents\GitHub\crappy-scripts\Src\Scripts\form\xbox360controller\WiiJoyX\WiiJoyX\obj\Release\WiiJoyX.csprojAssemblyReference.cache
+C:\Users\mic\Documents\GitHub\crappy-scripts\Src\Scripts\form\xbox360controller\WiiJoyX\WiiJoyX\obj\Release\WiiJoyX.Form1.resources
+C:\Users\mic\Documents\GitHub\crappy-scripts\Src\Scripts\form\xbox360controller\WiiJoyX\WiiJoyX\obj\Release\WiiJoyX.Properties.Resources.resources
+C:\Users\mic\Documents\GitHub\crappy-scripts\Src\Scripts\form\xbox360controller\WiiJoyX\WiiJoyX\obj\Release\WiiJoyX.csproj.GenerateResource.cache
+C:\Users\mic\Documents\GitHub\crappy-scripts\Src\Scripts\form\xbox360controller\WiiJoyX\WiiJoyX\obj\Release\WiiJoyX.csproj.CoreCompileInputs.cache
+C:\Users\mic\Documents\GitHub\crappy-scripts\Src\Scripts\form\xbox360controller\WiiJoyX\WiiJoyX\obj\Release\WiiJoyX.csproj.CopyComplete
+C:\Users\mic\Documents\GitHub\crappy-scripts\Src\Scripts\form\xbox360controller\WiiJoyX\WiiJoyX\obj\Release\WiiJoyX.exe
+C:\Users\mic\Documents\GitHub\crappy-scripts\Src\Scripts\form\xbox360controller\WiiJoyX\WiiJoyX\obj\Release\WiiJoyX.pdb

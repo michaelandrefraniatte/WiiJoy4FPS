@@ -1,0 +1,190 @@
+Call of Duty Modern Warfare Warzone
+// viewpower05x
+0
+// viewpower1x
+0
+// viewpower2x
+1.0
+// viewpower3x
+0
+// viewpower05y
+0
+// viewpower1y
+0
+// viewpower2y
+1.0
+// viewpower3y
+0
+// dzx
+3.0
+// dzy
+3.0
+// lowsensx
+1.0
+// lowsensy
+1.0
+// centery
+140
+// apressio
+True
+// dzapressiox
+3.0
+// dzapressioy
+3.0
+// lowsensapressiox
+2.0
+// lowsensapressioy
+2.0
+// lowsenstime
+290
+// lowsenstimeapressio
+145
+// switch viewpower05x
+0
+// switch viewpower1x
+0
+// switch viewpower2x
+1.0
+// switch viewpower3x
+0
+// switch viewpower05y
+0
+// switch viewpower1y
+0
+// switch viewpower2y
+1.0
+// switch viewpower3y
+0
+// switch dzx
+3.0
+// switch dzy
+3.0
+// switch lowsensx
+1.0
+// switch lowsensy
+1.0
+// Down
+LeftButtonDPAD_DOWN
+// Left
+LeftButtonDPAD_LEFT
+// Right
+LeftButtonDPAD_RIGHT
+// Up
+LeftButtonDPAD_UP
+// RightStick
+LeftButtonSMA
+// LeftStick
+LeftButtonSHOULDER_2
+// A
+LeftButtonSHOULDER_1
+// Back
+mWSButtonStateOne
+// Start
+mWSLeftButtonTC
+// X
+mWSButtonStateHFront
+// RightBumper
+mWSButtonStatePU
+// LeftBumper
+mWSButtonStateMU
+// B
+mWSButtonStateDown
+// Y
+mWSButtonStateLR
+// RightTrigger
+mWSButtonStateB
+// LeftTrigger
+mWSButtonStateA
+// Switch Down
+LeftButtonDPAD_DOWN
+// Switch Left
+LeftButtonDPAD_LEFT
+// Switch Right
+LeftButtonDPAD_RIGHT
+// Switch Up
+LeftButtonDPAD_UP
+// Switch RightStick
+LeftButtonSMA
+// Switch LeftStick
+LeftButtonSHOULDER_2
+// Switch A
+LeftButtonSHOULDER_1
+// Switch Back
+mWSButtonStateOne
+// Switch Start
+mWSLeftButtonTC
+// Switch X
+mWSButtonStateHFront
+// Switch RightBumper
+mWSButtonStatePU
+// Switch LeftBumper
+mWSButtonStateMU
+// Switch B
+mWSButtonStateDown
+// Switch Y
+mWSButtonStateLR
+// Switch RightTrigger
+mWSButtonStateB
+// Switch LeftTrigger
+mWSButtonStateA
+// left stick right
+LeftButtonStickRight
+// left stick left
+LeftButtonStickLeft
+// left stick up
+LeftButtonStickUp
+// left stick down
+LeftButtonStickDown
+// right stick right
+none
+// right stick left
+none
+// right stick up
+none
+// right stick down
+none
+// left stick x
+none
+// left stick y
+none
+// right stick x
+mousex
+// right stick y
+mousey
+// switch left stick right
+none
+// switch left stick left
+none
+// switch left stick up
+none
+// switch left stick down
+none
+// switch right stick right
+none
+// switch right stick left
+none
+// switch right stick up
+none
+// switch right stick down
+none
+// switch left stick x
+mousex
+// switch left stick y
+mousey
+// switch right stick x
+leftstickx
+// switch right stick y
+leftsticky
+
+
+
+
+
+
+
+
+
+
+
+
+

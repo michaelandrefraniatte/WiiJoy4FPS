@@ -1,0 +1,20 @@
+﻿Build started 31/12/2019 18:40:40.
+     1>Project "C:\Users\Mic\Documents\Visual Studio 2012\Projects\WiiJoyPairing\WiiJoyPairing\WiiJoyPairing.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /sdl /Od /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D WIIJOYPAIRING_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"x64\Debug\WiiJoyPairing.pch" /Fo"x64\Debug\\" /Fd"x64\Debug\vc110.pdb" /Gd /TP /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /sdl /Od /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D WIIJOYPAIRING_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc110.pdb" /Gd /TP /errorReport:prompt dllmain.cpp
+         dllmain.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /sdl /Od /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D WIIJOYPAIRING_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"x64\Debug\WiiJoyPairing.pch" /Fo"x64\Debug\\" /Fd"x64\Debug\vc110.pdb" /Gd /TP /errorReport:prompt WiiJoyPairing.cpp
+         WiiJoyPairing.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Mic\Documents\Visual Studio 2012\Projects\WiiJoyPairing\x64\Debug\WiiJoyPairing.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Mic\Documents\Visual Studio 2012\Projects\WiiJoyPairing\x64\Debug\WiiJoyPairing.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Mic\Documents\Visual Studio 2012\Projects\WiiJoyPairing\x64\Debug\WiiJoyPairing.lib" /MACHINE:X64 /DLL x64\Debug\dllmain.obj
+         x64\Debug\stdafx.obj
+         x64\Debug\WiiJoyPairing.obj
+            Creating library C:\Users\Mic\Documents\Visual Studio 2012\Projects\WiiJoyPairing\x64\Debug\WiiJoyPairing.lib and object C:\Users\Mic\Documents\Visual Studio 2012\Projects\WiiJoyPairing\x64\Debug\WiiJoyPairing.exp
+         WiiJoyPairing.vcxproj -> C:\Users\Mic\Documents\Visual Studio 2012\Projects\WiiJoyPairing\x64\Debug\WiiJoyPairing.dll
+     1>Done Building Project "C:\Users\Mic\Documents\Visual Studio 2012\Projects\WiiJoyPairing\WiiJoyPairing\WiiJoyPairing.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.97

@@ -1,0 +1,13 @@
+C:\Users\mic\Documents\GitHub\crappy-scripts\Src\Scripts\form\xbox360controller\WiiJoyDaysGone\WiiJoyDaysGone\bin\Release\WiiJoyDaysGone.exe.config
+C:\Users\mic\Documents\GitHub\crappy-scripts\Src\Scripts\form\xbox360controller\WiiJoyDaysGone\WiiJoyDaysGone\bin\Release\WiiJoyDaysGone.exe
+C:\Users\mic\Documents\GitHub\crappy-scripts\Src\Scripts\form\xbox360controller\WiiJoyDaysGone\WiiJoyDaysGone\bin\Release\WiiJoyDaysGone.pdb
+C:\Users\mic\Documents\GitHub\crappy-scripts\Src\Scripts\form\xbox360controller\WiiJoyDaysGone\WiiJoyDaysGone\bin\Release\controller.dll
+C:\Users\mic\Documents\GitHub\crappy-scripts\Src\Scripts\form\xbox360controller\WiiJoyDaysGone\WiiJoyDaysGone\bin\Release\controller.pdb
+C:\Users\mic\Documents\GitHub\crappy-scripts\Src\Scripts\form\xbox360controller\WiiJoyDaysGone\WiiJoyDaysGone\obj\Release\WiiJoyDaysGone.csprojAssemblyReference.cache
+C:\Users\mic\Documents\GitHub\crappy-scripts\Src\Scripts\form\xbox360controller\WiiJoyDaysGone\WiiJoyDaysGone\obj\Release\WiiJoyDaysGone.Form1.resources
+C:\Users\mic\Documents\GitHub\crappy-scripts\Src\Scripts\form\xbox360controller\WiiJoyDaysGone\WiiJoyDaysGone\obj\Release\WiiJoyDaysGone.Properties.Resources.resources
+C:\Users\mic\Documents\GitHub\crappy-scripts\Src\Scripts\form\xbox360controller\WiiJoyDaysGone\WiiJoyDaysGone\obj\Release\WiiJoyDaysGone.csproj.GenerateResource.cache
+C:\Users\mic\Documents\GitHub\crappy-scripts\Src\Scripts\form\xbox360controller\WiiJoyDaysGone\WiiJoyDaysGone\obj\Release\WiiJoyDaysGone.csproj.CoreCompileInputs.cache
+C:\Users\mic\Documents\GitHub\crappy-scripts\Src\Scripts\form\xbox360controller\WiiJoyDaysGone\WiiJoyDaysGone\obj\Release\WiiJoyDaysGone.csproj.CopyComplete
+C:\Users\mic\Documents\GitHub\crappy-scripts\Src\Scripts\form\xbox360controller\WiiJoyDaysGone\WiiJoyDaysGone\obj\Release\WiiJoyDaysGone.exe
+C:\Users\mic\Documents\GitHub\crappy-scripts\Src\Scripts\form\xbox360controller\WiiJoyDaysGone\WiiJoyDaysGone\obj\Release\WiiJoyDaysGone.pdb

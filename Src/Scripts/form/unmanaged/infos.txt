@@ -1,0 +1,33 @@
+- In CoD, enable controller instead of keyboard and mouse
+- In Fortnite, in order to not meet view jumping, set mouse sensitivity to lowest values under game options, and remove all mouse and keyboard bindings 
+- WiiJoyFortnite -> Fortnite with Joycon Left and Wiimote or Joycon Left (LeftButtonCAPTURE)
+Ignorer commandes de manette -> Non
+Souris prioritaire -> Non
+Configuration manette -> Construction
+- WiiJoyPlay -> Fortnite with Joycon Left and Wiimote (mWSButtonStateTwo + LeftButtonCAPTURE)
+Action -> Key bindings -> Controller buttons
+Réparer/Améliorer, 6 = LeftButtonDPAD_UP, 
+Changer de matériau, 7 = LeftButtonDPAD_LEFT
+Modifier construction, 8 = LeftButtonDPAD_DOWN
+Pivoter structure, 9 = LeftButtonDPAD_RIGHT
+Toit, 0 = LeftButtonMINUS
+Mur, A = LeftButtonSL
+?, E = LeftButtonSR
+Sauter, Space = LeftButtonSHOULDER_1
+Glisser, LeftShift = LeftButtonSHOULDER_2
+?, B = LeftButtonSTICK
+Déplacement , ZSQD = StickLeft
+Outil de collecte, V = acc_gLeft
+Menu, Escape = mWSButtonStateTwo
+?, H = LeftButtonCAPTURE
+Carte, Tab = mWSButtonStateOne
+Recharger, R = acc
+Utiliser, Monter/Descendre Véhicule, F = mWSButtonStateHome
+Armes, 12345= mWSButtonStateMinus | mWSButtonStateMinus
+Escaliers, Y = mWSButtonStateLeft
+Sol, U = mWSButtonStateRight
+Piége, X = mWSButtonStateUp
+Alterner les raccourcis armes/constructions, C = mWSButtonStateDown
+Viser, RightClick = mWSButtonStateA
+Tirer, LeftClick = mWSButtonStateB
+

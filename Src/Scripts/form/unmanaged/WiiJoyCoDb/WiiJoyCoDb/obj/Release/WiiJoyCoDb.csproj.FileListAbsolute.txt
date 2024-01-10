@@ -1,0 +1,13 @@
+C:\Users\mic\Documents\GitHub\WiiJoy\Src\scripts\form\unmanaged\WiiJoyCoDb\WiiJoyCoDb\obj\Release\WiiJoyCoDb.csproj.AssemblyReference.cache
+C:\Users\mic\Documents\GitHub\WiiJoy\Src\scripts\form\unmanaged\WiiJoyCoDb\WiiJoyCoDb\obj\Release\WiiJoyCoDb.csproj.SuggestedBindingRedirects.cache
+C:\Users\mic\Documents\GitHub\WiiJoy\Src\scripts\form\unmanaged\WiiJoyCoDb\WiiJoyCoDb\obj\Release\WiiJoyCoDb.Form1.resources
+C:\Users\mic\Documents\GitHub\WiiJoy\Src\scripts\form\unmanaged\WiiJoyCoDb\WiiJoyCoDb\obj\Release\WiiJoyCoDb.Properties.Resources.resources
+C:\Users\mic\Documents\GitHub\WiiJoy\Src\scripts\form\unmanaged\WiiJoyCoDb\WiiJoyCoDb\obj\Release\WiiJoyCoDb.csproj.GenerateResource.cache
+C:\Users\mic\Documents\GitHub\WiiJoy\Src\scripts\form\unmanaged\WiiJoyCoDb\WiiJoyCoDb\obj\Release\WiiJoyCoDb.csproj.CoreCompileInputs.cache
+C:\Users\mic\Documents\GitHub\WiiJoy\Src\scripts\form\unmanaged\WiiJoyCoDb\WiiJoyCoDb\bin\Release\WiiJoyCoDb.exe.config
+C:\Users\mic\Documents\GitHub\WiiJoy\Src\scripts\form\unmanaged\WiiJoyCoDb\WiiJoyCoDb\bin\Release\WiiJoyCoDb.exe
+C:\Users\mic\Documents\GitHub\WiiJoy\Src\scripts\form\unmanaged\WiiJoyCoDb\WiiJoyCoDb\bin\Release\WiiJoyCoDb.pdb
+C:\Users\mic\Documents\GitHub\WiiJoy\Src\scripts\form\unmanaged\WiiJoyCoDb\WiiJoyCoDb\bin\Release\SharpDX.DirectInput.xml
+C:\Users\mic\Documents\GitHub\WiiJoy\Src\scripts\form\unmanaged\WiiJoyCoDb\WiiJoyCoDb\obj\Release\WiiJoyCoDb.csproj.CopyComplete
+C:\Users\mic\Documents\GitHub\WiiJoy\Src\scripts\form\unmanaged\WiiJoyCoDb\WiiJoyCoDb\obj\Release\WiiJoyCoDb.exe
+C:\Users\mic\Documents\GitHub\WiiJoy\Src\scripts\form\unmanaged\WiiJoyCoDb\WiiJoyCoDb\obj\Release\WiiJoyCoDb.pdb

@@ -1,0 +1,13 @@
+C:\Users\mic\Documents\GitHub\crappy-scripts\Src\Scripts\form\keyboardmouse\WiiJoyS\WiiJoyS\bin\Release\WiiJoyS.exe.config
+C:\Users\mic\Documents\GitHub\crappy-scripts\Src\Scripts\form\keyboardmouse\WiiJoyS\WiiJoyS\bin\Release\WiiJoyS.exe
+C:\Users\mic\Documents\GitHub\crappy-scripts\Src\Scripts\form\keyboardmouse\WiiJoyS\WiiJoyS\bin\Release\WiiJoyS.pdb
+C:\Users\mic\Documents\GitHub\crappy-scripts\Src\Scripts\form\keyboardmouse\WiiJoyS\WiiJoyS\obj\Release\WiiJoyS.csprojAssemblyReference.cache
+C:\Users\mic\Documents\GitHub\crappy-scripts\Src\Scripts\form\keyboardmouse\WiiJoyS\WiiJoyS\obj\Release\WiiJoyS.Form1.resources
+C:\Users\mic\Documents\GitHub\crappy-scripts\Src\Scripts\form\keyboardmouse\WiiJoyS\WiiJoyS\obj\Release\WiiJoyS.Properties.Resources.resources
+C:\Users\mic\Documents\GitHub\crappy-scripts\Src\Scripts\form\keyboardmouse\WiiJoyS\WiiJoyS\obj\Release\WiiJoyS.csproj.GenerateResource.cache
+C:\Users\mic\Documents\GitHub\crappy-scripts\Src\Scripts\form\keyboardmouse\WiiJoyS\WiiJoyS\obj\Release\WiiJoyS.csproj.CoreCompileInputs.cache
+C:\Users\mic\Documents\GitHub\crappy-scripts\Src\Scripts\form\keyboardmouse\WiiJoyS\WiiJoyS\obj\Release\WiiJoyS.exe
+C:\Users\mic\Documents\GitHub\crappy-scripts\Src\Scripts\form\keyboardmouse\WiiJoyS\WiiJoyS\obj\Release\WiiJoyS.pdb
+C:\Users\mic\Documents\GitHub\crappy-scripts\Src\Scripts\form\keyboardmouse\WiiJoyS\WiiJoyS\bin\Release\Interceptor.dll
+C:\Users\mic\Documents\GitHub\crappy-scripts\Src\Scripts\form\keyboardmouse\WiiJoyS\WiiJoyS\bin\Release\Interceptor.pdb
+C:\Users\mic\Documents\GitHub\crappy-scripts\Src\Scripts\form\keyboardmouse\WiiJoyS\WiiJoyS\obj\Release\WiiJoyS.csproj.CopyComplete

@@ -1,0 +1,11 @@
+C:\Users\mic\Documents\Perso\WiiJoy\Src\scripts\form\unmanaged\WiiJoyKM\WiiJoyKM\bin\Release\WiiJoyKM.exe.config
+C:\Users\mic\Documents\Perso\WiiJoy\Src\scripts\form\unmanaged\WiiJoyKM\WiiJoyKM\bin\Release\WiiJoyKM.exe
+C:\Users\mic\Documents\Perso\WiiJoy\Src\scripts\form\unmanaged\WiiJoyKM\WiiJoyKM\bin\Release\WiiJoyKM.pdb
+C:\Users\mic\Documents\Perso\WiiJoy\Src\scripts\form\unmanaged\WiiJoyKM\WiiJoyKM\obj\Release\WiiJoyKM.csproj.AssemblyReference.cache
+C:\Users\mic\Documents\Perso\WiiJoy\Src\scripts\form\unmanaged\WiiJoyKM\WiiJoyKM\obj\Release\WiiJoyKM.csproj.SuggestedBindingRedirects.cache
+C:\Users\mic\Documents\Perso\WiiJoy\Src\scripts\form\unmanaged\WiiJoyKM\WiiJoyKM\obj\Release\WiiJoyKM.Form1.resources
+C:\Users\mic\Documents\Perso\WiiJoy\Src\scripts\form\unmanaged\WiiJoyKM\WiiJoyKM\obj\Release\WiiJoyKM.Properties.Resources.resources
+C:\Users\mic\Documents\Perso\WiiJoy\Src\scripts\form\unmanaged\WiiJoyKM\WiiJoyKM\obj\Release\WiiJoyKM.csproj.GenerateResource.cache
+C:\Users\mic\Documents\Perso\WiiJoy\Src\scripts\form\unmanaged\WiiJoyKM\WiiJoyKM\obj\Release\WiiJoyKM.csproj.CoreCompileInputs.cache
+C:\Users\mic\Documents\Perso\WiiJoy\Src\scripts\form\unmanaged\WiiJoyKM\WiiJoyKM\obj\Release\WiiJoyKM.exe
+C:\Users\mic\Documents\Perso\WiiJoy\Src\scripts\form\unmanaged\WiiJoyKM\WiiJoyKM\obj\Release\WiiJoyKM.pdb

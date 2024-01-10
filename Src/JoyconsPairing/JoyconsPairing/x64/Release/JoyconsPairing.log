@@ -1,0 +1,18 @@
+﻿Build started 19/09/2019 07:29:45.
+     1>Project "C:\Users\Mic\Documents\Visual Studio 2012\Projects\JoyconsPairing\JoyconsPairing\JoyconsPairing.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _USRDLL /D JOYCONSPAIRING_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"x64\Release\JoyconsPairing.pch" /Fo"x64\Release\\" /Fd"x64\Release\vc110.pdb" /Gd /TP /errorReport:prompt JoyconsPairing.cpp
+         JoyconsPairing.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Mic\Documents\Visual Studio 2012\Projects\JoyconsPairing\x64\Release\JoyconsPairing.dll" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Mic\Documents\Visual Studio 2012\Projects\JoyconsPairing\x64\Release\JoyconsPairing.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Mic\Documents\Visual Studio 2012\Projects\JoyconsPairing\x64\Release\JoyconsPairing.lib" /MACHINE:X64 /DLL x64\Release\dllmain.obj
+         x64\Release\JoyconsPairing.obj
+         x64\Release\stdafx.obj
+            Creating library C:\Users\Mic\Documents\Visual Studio 2012\Projects\JoyconsPairing\x64\Release\JoyconsPairing.lib and object C:\Users\Mic\Documents\Visual Studio 2012\Projects\JoyconsPairing\x64\Release\JoyconsPairing.exp
+         Generating code
+         Finished generating code
+         JoyconsPairing.vcxproj -> C:\Users\Mic\Documents\Visual Studio 2012\Projects\JoyconsPairing\x64\Release\JoyconsPairing.dll
+     1>Done Building Project "C:\Users\Mic\Documents\Visual Studio 2012\Projects\JoyconsPairing\JoyconsPairing\JoyconsPairing.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.66

@@ -1,0 +1,5 @@
+Open CMD DOS Prompt command with administrative privilege
+Go to this folder cd /, cd Users\<username>\Documents
+Type the following commands to install or uninstall
+Install-interception.exe /install
+Install-interception.exe /uninstall

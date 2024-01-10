@@ -1,0 +1,26 @@
+// viewpower05x
+0
+// viewpower1x
+0
+// viewpower2x
+1.0
+// viewpower3x
+0
+// viewpower05y
+0
+// viewpower1y
+0
+// viewpower2y
+1.0
+// viewpower3y
+0
+// dzx
+33
+// dzy
+33
+// lowsensx
+1.0
+// lowsensy
+1.0
+// centery
+140

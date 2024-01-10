@@ -1,0 +1,11 @@
+C:\Users\mic\Documents\GitHub\WiiJoy\Src\scripts\form\unmanaged\WiiJoyBloodHunt\WiiJoyBloodHunt\bin\Release\WiiJoyBloodHunt.exe.config
+C:\Users\mic\Documents\GitHub\WiiJoy\Src\scripts\form\unmanaged\WiiJoyBloodHunt\WiiJoyBloodHunt\bin\Release\WiiJoyBloodHunt.exe
+C:\Users\mic\Documents\GitHub\WiiJoy\Src\scripts\form\unmanaged\WiiJoyBloodHunt\WiiJoyBloodHunt\bin\Release\WiiJoyBloodHunt.pdb
+C:\Users\mic\Documents\GitHub\WiiJoy\Src\scripts\form\unmanaged\WiiJoyBloodHunt\WiiJoyBloodHunt\obj\Release\WiiJoyBloodHunt.csproj.AssemblyReference.cache
+C:\Users\mic\Documents\GitHub\WiiJoy\Src\scripts\form\unmanaged\WiiJoyBloodHunt\WiiJoyBloodHunt\obj\Release\WiiJoyBloodHunt.csproj.SuggestedBindingRedirects.cache
+C:\Users\mic\Documents\GitHub\WiiJoy\Src\scripts\form\unmanaged\WiiJoyBloodHunt\WiiJoyBloodHunt\obj\Release\WiiJoyBloodHunt.Form1.resources
+C:\Users\mic\Documents\GitHub\WiiJoy\Src\scripts\form\unmanaged\WiiJoyBloodHunt\WiiJoyBloodHunt\obj\Release\WiiJoyBloodHunt.Properties.Resources.resources
+C:\Users\mic\Documents\GitHub\WiiJoy\Src\scripts\form\unmanaged\WiiJoyBloodHunt\WiiJoyBloodHunt\obj\Release\WiiJoyBloodHunt.csproj.GenerateResource.cache
+C:\Users\mic\Documents\GitHub\WiiJoy\Src\scripts\form\unmanaged\WiiJoyBloodHunt\WiiJoyBloodHunt\obj\Release\WiiJoyBloodHunt.csproj.CoreCompileInputs.cache
+C:\Users\mic\Documents\GitHub\WiiJoy\Src\scripts\form\unmanaged\WiiJoyBloodHunt\WiiJoyBloodHunt\obj\Release\WiiJoyBloodHunt.exe
+C:\Users\mic\Documents\GitHub\WiiJoy\Src\scripts\form\unmanaged\WiiJoyBloodHunt\WiiJoyBloodHunt\obj\Release\WiiJoyBloodHunt.pdb

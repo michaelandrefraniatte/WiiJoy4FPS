@@ -1,0 +1,10 @@
+C:\Users\mic\Documents\GitHub\WiiJoy\Src\scripts\form\unmanaged\WiiJoyBF2042\WiiJoyBF2042\bin\Release\WiiJoyBF2042.exe.config
+C:\Users\mic\Documents\GitHub\WiiJoy\Src\scripts\form\unmanaged\WiiJoyBF2042\WiiJoyBF2042\bin\Release\WiiJoyBF2042.exe
+C:\Users\mic\Documents\GitHub\WiiJoy\Src\scripts\form\unmanaged\WiiJoyBF2042\WiiJoyBF2042\bin\Release\WiiJoyBF2042.pdb
+C:\Users\mic\Documents\GitHub\WiiJoy\Src\scripts\form\unmanaged\WiiJoyBF2042\WiiJoyBF2042\obj\Release\WiiJoyBF2042.csprojAssemblyReference.cache
+C:\Users\mic\Documents\GitHub\WiiJoy\Src\scripts\form\unmanaged\WiiJoyBF2042\WiiJoyBF2042\obj\Release\WiiJoyBF2042.Form1.resources
+C:\Users\mic\Documents\GitHub\WiiJoy\Src\scripts\form\unmanaged\WiiJoyBF2042\WiiJoyBF2042\obj\Release\WiiJoyBF2042.Properties.Resources.resources
+C:\Users\mic\Documents\GitHub\WiiJoy\Src\scripts\form\unmanaged\WiiJoyBF2042\WiiJoyBF2042\obj\Release\WiiJoyBF2042.csproj.GenerateResource.cache
+C:\Users\mic\Documents\GitHub\WiiJoy\Src\scripts\form\unmanaged\WiiJoyBF2042\WiiJoyBF2042\obj\Release\WiiJoyBF2042.csproj.CoreCompileInputs.cache
+C:\Users\mic\Documents\GitHub\WiiJoy\Src\scripts\form\unmanaged\WiiJoyBF2042\WiiJoyBF2042\obj\Release\WiiJoyBF2042.exe
+C:\Users\mic\Documents\GitHub\WiiJoy\Src\scripts\form\unmanaged\WiiJoyBF2042\WiiJoyBF2042\obj\Release\WiiJoyBF2042.pdb

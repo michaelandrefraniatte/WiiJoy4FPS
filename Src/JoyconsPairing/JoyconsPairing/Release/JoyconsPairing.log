@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+  JoyconsPairing.cpp
+     Création de la bibliothèque C:\Users\mic\Documents\GitHub\AYM\Src\JoyconsPairing\Release\JoyconsPairing.lib et de l'objet C:\Users\mic\Documents\GitHub\AYM\Src\JoyconsPairing\Release\JoyconsPairing.exp
+  Génération de code en cours
+  Previous IPDB not found, fall back to full compilation.
+  All 3 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Fin de la génération du code
+  JoyconsPairing.vcxproj -> C:\Users\mic\Documents\GitHub\AYM\Src\JoyconsPairing\Release\JoyconsPairing.dll

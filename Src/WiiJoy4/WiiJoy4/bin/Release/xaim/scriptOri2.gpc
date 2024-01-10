@@ -1,0 +1,8 @@
+main
+{
+	if (get_val(CEMU_EXTRA1))
+	{
+		swap(XB1_RX,XB1_LX);
+		swap(XB1_RY,XB1_LY);
+	}
+}

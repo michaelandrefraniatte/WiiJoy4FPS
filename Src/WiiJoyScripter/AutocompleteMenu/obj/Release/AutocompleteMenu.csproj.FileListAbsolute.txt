@@ -1,0 +1,16 @@
+C:\Users\mic\Documents\GitHub\WiiJoyScripter\WiiJoyScripter\AutocompleteMenu\bin\Release\AutocompleteMenu.dll
+C:\Users\mic\Documents\GitHub\WiiJoyScripter\WiiJoyScripter\AutocompleteMenu\bin\Release\AutocompleteMenu.pdb
+C:\Users\mic\Documents\GitHub\WiiJoyScripter\WiiJoyScripter\AutocompleteMenu\obj\Release\AutocompleteMenu.csprojAssemblyReference.cache
+C:\Users\mic\Documents\GitHub\WiiJoyScripter\WiiJoyScripter\AutocompleteMenu\obj\Release\AutocompleteMenuNS.AutocompleteMenu.resources
+C:\Users\mic\Documents\GitHub\WiiJoyScripter\WiiJoyScripter\AutocompleteMenu\obj\Release\AutocompleteMenu.csproj.GenerateResource.cache
+C:\Users\mic\Documents\GitHub\WiiJoyScripter\WiiJoyScripter\AutocompleteMenu\obj\Release\AutocompleteMenu.csproj.CoreCompileInputs.cache
+C:\Users\mic\Documents\GitHub\WiiJoyScripter\WiiJoyScripter\AutocompleteMenu\obj\Release\AutocompleteMenu.dll
+C:\Users\mic\Documents\GitHub\WiiJoyScripter\WiiJoyScripter\AutocompleteMenu\obj\Release\AutocompleteMenu.pdb
+C:\Users\mic\Documents\GitHub\WiiJoy4FPS\Src\WiiJoyScripter\AutocompleteMenu\bin\Release\AutocompleteMenu.dll
+C:\Users\mic\Documents\GitHub\WiiJoy4FPS\Src\WiiJoyScripter\AutocompleteMenu\bin\Release\AutocompleteMenu.pdb
+C:\Users\mic\Documents\GitHub\WiiJoy4FPS\Src\WiiJoyScripter\AutocompleteMenu\obj\Release\AutocompleteMenu.csprojAssemblyReference.cache
+C:\Users\mic\Documents\GitHub\WiiJoy4FPS\Src\WiiJoyScripter\AutocompleteMenu\obj\Release\AutocompleteMenuNS.AutocompleteMenu.resources
+C:\Users\mic\Documents\GitHub\WiiJoy4FPS\Src\WiiJoyScripter\AutocompleteMenu\obj\Release\AutocompleteMenu.csproj.GenerateResource.cache
+C:\Users\mic\Documents\GitHub\WiiJoy4FPS\Src\WiiJoyScripter\AutocompleteMenu\obj\Release\AutocompleteMenu.csproj.CoreCompileInputs.cache
+C:\Users\mic\Documents\GitHub\WiiJoy4FPS\Src\WiiJoyScripter\AutocompleteMenu\obj\Release\AutocompleteMenu.dll
+C:\Users\mic\Documents\GitHub\WiiJoy4FPS\Src\WiiJoyScripter\AutocompleteMenu\obj\Release\AutocompleteMenu.pdb

@@ -1,0 +1,17 @@
+Tips and tricks :
+- It needs bluetooth device or bluetooth built in.
+- It needs an old Wiimote of the Wii console with USB sensor bar like the one for the Wii U console.
+- It needs 2 LR6 batteries with a NiMH charger for have Wiimote charged.
+- Wiimote leds are blinking naturally showing batteries left (7 hours for 1 charge), taking only 3 hours to total charge.
+- The sensor bar is placed under a big HDMI TV without something under, both connected to a PC.
+- It needs to press sync button of Wiimote.
+- The sync button of Wiimote is buttons 1 and 2 at same time.
+- It automatically pairs Wiimote when starting.
+- At program start, it calibrates analogic values from the current positions. Wiimote shall no moving just after connection of it, and before ready.
+- At program start, press Wiimote buttons 2 and Home when program is minimized for enable inputs.
+- Press Wiimote buttons 2 and Home to enable/disable inputs.
+- Playing in a dark room without sun light is required.
+- Changing mouse sensitivity in game options is required.
+- Setting game resolution the same as screen resolution of desktop is required.
+- It's better to change keys with game options if possible, for having easy to remember which keys to push, with the ingame helps.
+- Alt + Tab is used to navigate between windows, Alt + F4 is used to close a window, Alt + Enter is used to fullscreen a game window.

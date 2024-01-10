@@ -1,0 +1,10 @@
+C:\Users\mic\Documents\GitHub\WiiJoy\Src\scripts\form\unmanaged\WiiJoyPlay\WiiJoyPlay\bin\Release\WiiJoyPlay.exe.config
+C:\Users\mic\Documents\GitHub\WiiJoy\Src\scripts\form\unmanaged\WiiJoyPlay\WiiJoyPlay\bin\Release\WiiJoyPlay.exe
+C:\Users\mic\Documents\GitHub\WiiJoy\Src\scripts\form\unmanaged\WiiJoyPlay\WiiJoyPlay\bin\Release\WiiJoyPlay.pdb
+C:\Users\mic\Documents\GitHub\WiiJoy\Src\scripts\form\unmanaged\WiiJoyPlay\WiiJoyPlay\obj\Release\WiiJoyPlay.csprojAssemblyReference.cache
+C:\Users\mic\Documents\GitHub\WiiJoy\Src\scripts\form\unmanaged\WiiJoyPlay\WiiJoyPlay\obj\Release\WiiJoyPlay.Form1.resources
+C:\Users\mic\Documents\GitHub\WiiJoy\Src\scripts\form\unmanaged\WiiJoyPlay\WiiJoyPlay\obj\Release\WiiJoyPlay.Properties.Resources.resources
+C:\Users\mic\Documents\GitHub\WiiJoy\Src\scripts\form\unmanaged\WiiJoyPlay\WiiJoyPlay\obj\Release\WiiJoyPlay.csproj.GenerateResource.cache
+C:\Users\mic\Documents\GitHub\WiiJoy\Src\scripts\form\unmanaged\WiiJoyPlay\WiiJoyPlay\obj\Release\WiiJoyPlay.csproj.CoreCompileInputs.cache
+C:\Users\mic\Documents\GitHub\WiiJoy\Src\scripts\form\unmanaged\WiiJoyPlay\WiiJoyPlay\obj\Release\WiiJoyPlay.exe
+C:\Users\mic\Documents\GitHub\WiiJoy\Src\scripts\form\unmanaged\WiiJoyPlay\WiiJoyPlay\obj\Release\WiiJoyPlay.pdb

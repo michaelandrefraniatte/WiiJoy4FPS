@@ -1,0 +1,10 @@
+C:\Users\mic\Documents\GitHub\crappy-scripts\Src\Scripts\form\WiiJoyXSConfigHelper\WiiJoyXSConfigHelper\bin\Release\WiiJoyXSConfigHelper.exe.config
+C:\Users\mic\Documents\GitHub\crappy-scripts\Src\Scripts\form\WiiJoyXSConfigHelper\WiiJoyXSConfigHelper\bin\Release\WiiJoyXSConfigHelper.exe
+C:\Users\mic\Documents\GitHub\crappy-scripts\Src\Scripts\form\WiiJoyXSConfigHelper\WiiJoyXSConfigHelper\bin\Release\WiiJoyXSConfigHelper.pdb
+C:\Users\mic\Documents\GitHub\crappy-scripts\Src\Scripts\form\WiiJoyXSConfigHelper\WiiJoyXSConfigHelper\obj\Release\WiiJoyXSConfigHelper.Form1.resources
+C:\Users\mic\Documents\GitHub\crappy-scripts\Src\Scripts\form\WiiJoyXSConfigHelper\WiiJoyXSConfigHelper\obj\Release\WiiJoyXSConfigHelper.Properties.Resources.resources
+C:\Users\mic\Documents\GitHub\crappy-scripts\Src\Scripts\form\WiiJoyXSConfigHelper\WiiJoyXSConfigHelper\obj\Release\WiiJoyXSConfigHelper.csproj.GenerateResource.cache
+C:\Users\mic\Documents\GitHub\crappy-scripts\Src\Scripts\form\WiiJoyXSConfigHelper\WiiJoyXSConfigHelper\obj\Release\WiiJoyXSConfigHelper.csproj.CoreCompileInputs.cache
+C:\Users\mic\Documents\GitHub\crappy-scripts\Src\Scripts\form\WiiJoyXSConfigHelper\WiiJoyXSConfigHelper\obj\Release\WiiJoyXSConfigHelper.exe
+C:\Users\mic\Documents\GitHub\crappy-scripts\Src\Scripts\form\WiiJoyXSConfigHelper\WiiJoyXSConfigHelper\obj\Release\WiiJoyXSConfigHelper.pdb
+C:\Users\mic\Documents\GitHub\crappy-scripts\Src\Scripts\form\WiiJoyXSConfigHelper\WiiJoyXSConfigHelper\obj\Release\WiiJoyXSConfigHelper.csprojAssemblyReference.cache

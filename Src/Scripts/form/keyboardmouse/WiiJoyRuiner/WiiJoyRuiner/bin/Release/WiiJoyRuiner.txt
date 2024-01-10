@@ -1,0 +1,39 @@
+// viewpower05x
+0
+// viewpower1x
+1
+// viewpower2x
+0
+// viewpower3x
+0
+// viewpower05y
+0
+// viewpower1y
+1
+// viewpower2y
+0
+// viewpower3y
+0
+// pollrate
+1
+// lowsensx
+1
+// lowsensy
+1
+// lowsensbrinkaex
+600
+// lowsensbrinkaey
+400
+// brink
+False
+// mw3
+True
+// mw3ae
+False
+// brinkae
+True
+// desktop
+False
+// centery
+140
+

@@ -1,0 +1,269 @@
+KM4Control.txt
+//mouse control
+public static int[] wd = { 2, 2, 2, 2, 2 };
+                public static int[] wu = { 2, 2, 2, 2, 2 };
+                public static bool[] _Valuechanged = new bool[2], _valuechanged = new bool[2];
+                public static int x, y, Xcenter, Ycenter, _signxchanged, _signychanged, _valuexchanged, _valueychanged, Xcenterinit, Ycenterinit, qtx, qty, mouseStructptx, mouseStructpty;
+                private static bool _Signxchanged, _Signychanged, _Valuexchanged, _Valueychanged;
+                public double mousex, mousey, mousexp, mouseyp, slowing;
+                public void Main(double mWSNunchuckStateRawJoystickX, double mWSNunchuckStateRawJoystickY, double mWSNunchuckStateRawValuesX, double mWSNunchuckStateRawValuesY, double mWSNunchuckStateRawValuesZ, bool mWSNunchuckStateC, bool mWSNunchuckStateZ, 
+                double mWSButtonStateIRX, double mWSButtonStateIRY, bool mWSButtonStateA, bool mWSButtonStateB, bool mWSButtonStateMinus, bool mWSButtonStateHome, bool mWSButtonStatePlus, bool mWSButtonStateOne, bool mWSButtonStateTwo, bool mWSButtonStateUp, bool mWSButtonStateDown, bool mWSButtonStateLeft, bool mWSButtonStateRight, double mWSRawValuesX, double mWSRawValuesY, double mWSRawValuesZ, 
+                float EulerAnglesX, float EulerAnglesY, float EulerAnglesZ, float DirectAnglesX, float DirectAnglesY, float DirectAnglesZ, double camx, double camy, float EulerAnglesLeftX, float EulerAnglesLeftY, float EulerAnglesLeftZ, float DirectAnglesLeftX, float DirectAnglesLeftY, float DirectAnglesLeftZ, float EulerAnglesRightX, float EulerAnglesRightY, float EulerAnglesRightZ, 
+                float DirectAnglesRightX, float DirectAnglesRightY, float DirectAnglesRightZ, bool LeftButtonSHOULDER_1, bool LeftButtonMINUS, bool LeftButtonCAPTURE, bool LeftButtonDPAD_UP, bool LeftButtonDPAD_LEFT, bool LeftButtonDPAD_DOWN, bool LeftButtonDPAD_RIGHT, bool LeftButtonSTICK, bool RightButtonDPAD_DOWN, bool LeftButtonSL, bool LeftButtonSR, double GetStickLeftX, double GetStickLeftY, 
+                bool RightButtonPLUS, bool RightButtonDPAD_RIGHT, bool RightButtonHOME, bool RightButtonSHOULDER_1, bool RightButtonDPAD_LEFT, bool RightButtonDPAD_UP, bool RightButtonSTICK, bool RightButtonSL, bool RightButtonSR, bool RightButtonSHOULDER_2, bool LeftButtonSHOULDER_2, double GetStickRightX, double GetStickRightY, float GetAccelX, float GetAccelY, float GetAccelZ, float GetAccelRightX, float GetAccelRightY, float GetAccelRightZ, float GetAccelLeftX, float GetAccelLeftY, float GetAccelLeftZ, 
+                int MouseHookX, int MouseHookY, int MouseHookWheel, bool MouseHookLeftButton, bool MouseHookRightButton, bool MouseHookDoubleClick, bool MouseHookMiddleButton, double watchM)
+                { 
+	        slowing += 1f;	
+	        if (slowing >= 2f)
+	        {
+                  mouseStructptx = MouseHookX;
+                  mouseStructpty = MouseHookY;
+                GetCursorPos(out x, out y);
+                if (mouseStructptx - x != 0 & Math.Abs(mouseStructptx - x) >= 2)
+                    Signxchanged = Math.Sign(mouseStructptx - x);
+                if (_Signxchanged)
+                    Xcenterinit = Xcenter;
+                if (mouseStructpty - y != 0 & Math.Abs(mouseStructpty - y) >= 2)
+                    Signychanged = Math.Sign(mouseStructpty - y);
+                if (_Signychanged)
+                    Ycenterinit = Ycenter;
+                if (Math.Abs(Xcenter - Xcenterinit) <= 300)
+                    Valuexchanged = (mouseStructptx - x);
+                else
+                {
+                    if (Math.Abs(Xcenter - Xcenterinit) <= 900)
+                        Valuexchanged = (mouseStructptx - x) / 6;
+                    else
+                        Valuexchanged = (mouseStructptx - x) / 12;
+                }
+                if (_Valuexchanged)
+                {
+                    Xcenter += mouseStructptx - x;
+                    if (Math.Abs(Xcenter - Xcenterinit) > 6000)
+                        Xcenter -= mouseStructptx - x;
+                }
+                if (Math.Abs(Ycenter - Ycenterinit) <= 300)
+                    Valueychanged = (mouseStructpty - y);
+                else
+                {
+                    if (Math.Abs(Ycenter - Ycenterinit) <= 900)
+                        Valueychanged = (mouseStructpty - y) / 6;
+                    else
+                        Valueychanged = (mouseStructpty - y) / 12;
+                }
+                if (_Valueychanged)
+                {
+                    Ycenter += mouseStructpty - y;
+                    if (Math.Abs(Ycenter - Ycenterinit) > 6000)
+                        Ycenter -= mouseStructpty - y;
+                }
+	       mousex = (Xcenter - Xcenterinit);
+	       mousey = (Ycenter - Ycenterinit);
+	        mousexp += mousex;
+                    mouseyp += mousey;
+                    MouseBrink((Xcenter - Xcenterinit) / 75, (Ycenter - Ycenterinit) / 75);
+                    SetCursorPos(x, y);
+	            slowing = 0f;
+	        }
+		            System.Threading.Thread.Sleep(1);
+                } 
+        private int Signxchanged
+        {
+            get { return _signxchanged; }
+            set
+            {
+                if (_signxchanged != value)
+                    _Signxchanged = true;
+                else
+                    _Signxchanged = false;
+                _signxchanged = value;
+            }
+        }
+        private int Signychanged
+        {
+            get { return _signychanged; }
+            set
+            {
+                if (_signychanged != value)
+                    _Signychanged = true;
+                else
+                    _Signychanged = false;
+                _signychanged = value;
+            }
+        }
+        private int Valuexchanged
+        {
+            get { return _valuexchanged; }
+            set
+            {
+                if (_valuexchanged != value)
+                    _Valuexchanged = true;
+                else
+                    _Valuexchanged = false;
+                _valuexchanged = value;
+            }
+        }
+        private int Valueychanged
+        {
+            get { return _signychanged; }
+            set
+            {
+                if (_valueychanged != value)
+                    _Valueychanged = true;
+                else
+                    _Valueychanged = false;
+                _valueychanged = value;
+            }
+        }
+
+//keyboard control
+public static int[] wd = { 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2 };
+                public static int[] wu = { 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2 };
+                public static bool[] _Valuechanged = new bool[36], _valuechanged = new bool[36];
+                public double mousex, mousey, mousexp, mouseyp, slowingclick, slowingw, slowinga, slowings, slowingd;
+                public bool firstclick, secondclick, firstw, secondw, firsta, seconda, firsts, seconds, firstd, secondd;
+                public void Main(double mWSNunchuckStateRawJoystickX, double mWSNunchuckStateRawJoystickY, double mWSNunchuckStateRawValuesX, double mWSNunchuckStateRawValuesY, double mWSNunchuckStateRawValuesZ, bool mWSNunchuckStateC, bool mWSNunchuckStateZ, 
+                double mWSButtonStateIRX, double mWSButtonStateIRY, bool mWSButtonStateA, bool mWSButtonStateB, bool mWSButtonStateMinus, bool mWSButtonStateHome, bool mWSButtonStatePlus, bool mWSButtonStateOne, bool mWSButtonStateTwo, bool mWSButtonStateUp, bool mWSButtonStateDown, bool mWSButtonStateLeft, bool mWSButtonStateRight, double mWSRawValuesX, double mWSRawValuesY, double mWSRawValuesZ, 
+                float EulerAnglesX, float EulerAnglesY, float EulerAnglesZ, float DirectAnglesX, float DirectAnglesY, float DirectAnglesZ, double camx, double camy, float EulerAnglesLeftX, float EulerAnglesLeftY, float EulerAnglesLeftZ, float DirectAnglesLeftX, float DirectAnglesLeftY, float DirectAnglesLeftZ, float EulerAnglesRightX, float EulerAnglesRightY, float EulerAnglesRightZ, 
+                float DirectAnglesRightX, float DirectAnglesRightY, float DirectAnglesRightZ, bool LeftButtonSHOULDER_1, bool LeftButtonMINUS, bool LeftButtonCAPTURE, bool LeftButtonDPAD_UP, bool LeftButtonDPAD_LEFT, bool LeftButtonDPAD_DOWN, bool LeftButtonDPAD_RIGHT, bool LeftButtonSTICK, bool RightButtonDPAD_DOWN, bool LeftButtonSL, bool LeftButtonSR, double GetStickLeftX, double GetStickLeftY, 
+                bool RightButtonPLUS, bool RightButtonDPAD_RIGHT, bool RightButtonHOME, bool RightButtonSHOULDER_1, bool RightButtonDPAD_LEFT, bool RightButtonDPAD_UP, bool RightButtonSTICK, bool RightButtonSL, bool RightButtonSR, bool RightButtonSHOULDER_2, bool LeftButtonSHOULDER_2, double GetStickRightX, double GetStickRightY, float GetAccelX, float GetAccelY, float GetAccelZ, float GetAccelRightX, float GetAccelRightY, float GetAccelRightZ, float GetAccelLeftX, float GetAccelLeftY, float GetAccelLeftZ, 
+                int MouseHookX, int MouseHookY, int MouseHookWheel, bool MouseHookLeftButton, bool MouseHookRightButton, bool MouseHookDoubleClick, bool MouseHookMiddleButton, double watchM)
+                { 
+	        /* Clicking double times right mouse button enable to take and throw object with the ability */
+                    valchanged(0, MouseHookRightButton);
+	        if (slowingclick < 200f)
+	        {
+	            if (firstclick & wd[0] == 1)
+	            {
+			secondclick = true;
+			firstclick = false;
+	            }
+	        }
+	        if (slowingclick >= 200f)
+	        {
+	        	if (wd[0] == 1)
+		{
+			slowingclick = 0f;
+			firstclick = true;
+		}
+		else
+			firstclick = false;
+		secondclick = false;
+	        }
+	        slowingclick += 1f;
+                    valchanged(1, secondclick);
+                    if (wd[1] == 1)
+                        SimulateKeyDown(VK_G, S_G);
+                    if (wu[1] == 1)
+                        SimulateKeyUp(VK_G, S_G);
+	        /* Pressing double times W enable to move fast with the ability */
+                    valchanged(2, GetAsyncKeyState(System.Windows.Forms.Keys.W));
+	        if (slowingw < 200f)
+	        {
+	            if (firstw & wd[2] == 1)
+	            {
+			secondw = true;
+			firstw = false;
+	            }
+	        }
+	        if (slowingw >= 200f)
+	        {
+	        	if (wd[2] == 1)
+		{
+			slowingw = 0f;
+			firstw = true;
+		}
+		else
+			firstw = false;
+		secondw = false;
+	        }
+	        slowingw += 1f;
+                    valchanged(3, secondw);
+                    if (wd[3] == 1)
+                        SimulateKeyDown(VK_LMENU, S_LMENU);
+                    if (wu[3] == 1)
+                        SimulateKeyUp(VK_LMENU, S_LMENU);
+	        /* Pressing double times A enable to move fast with the ability */
+                    valchanged(4, GetAsyncKeyState(System.Windows.Forms.Keys.A));
+	        if (slowinga < 200f)
+	        {
+	            if (firsta & wd[4] == 1)
+	            {
+			seconda = true;
+			firsta = false;
+	            }
+	        }
+	        if (slowinga >= 200f)
+	        {
+	        	if (wd[4] == 1)
+		{
+			slowinga = 0f;
+			firsta = true;
+		}
+		else
+			firsta = false;
+		seconda = false;
+	        }
+	        slowinga += 1f;
+                    valchanged(5, seconda);
+                    if (wd[5] == 1)
+                        SimulateKeyDown(VK_LMENU, S_LMENU);
+                    if (wu[5] == 1)
+                        SimulateKeyUp(VK_LMENU, S_LMENU);
+	        /* Pressing double times S enable to move fast with the ability */
+                    valchanged(6, GetAsyncKeyState(System.Windows.Forms.Keys.S));
+	        if (slowings < 200f)
+	        {
+	            if (firsts & wd[6] == 1)
+	            {
+			seconds = true;
+			firsts = false;
+	            }
+	        }
+	        if (slowings >= 200f)
+	        {
+	        	if (wd[6] == 1)
+		{
+			slowings = 0f;
+			firsts = true;
+		}
+		else
+			firsts = false;
+		seconds = false;
+	        }
+	        slowings += 1f;
+                    valchanged(7, seconds);
+                    if (wd[7] == 1)
+                        SimulateKeyDown(VK_LMENU, S_LMENU);
+                    if (wu[7] == 1)
+                        SimulateKeyUp(VK_LMENU, S_LMENU);
+	        /* Pressing double times D enable to move fast with the ability */
+                    valchanged(8, GetAsyncKeyState(System.Windows.Forms.Keys.D));
+	        if (slowingd < 200f)
+	        {
+	            if (firstd & wd[8] == 1)
+	            {
+			secondd = true;
+			firstd = false;
+	            }
+	        }
+	        if (slowingd >= 200f)
+	        {
+	        	if (wd[8] == 1)
+		{
+			slowingd = 0f;
+			firstd = true;
+		}
+		else
+			firstd = false;
+		secondd = false;
+	        }
+	        slowingd += 1f;
+                    valchanged(9, secondd);
+                    if (wd[9] == 1)
+                        SimulateKeyDown(VK_LMENU, S_LMENU);
+                    if (wu[9] == 1)
+                        SimulateKeyUp(VK_LMENU, S_LMENU);
+		            System.Threading.Thread.Sleep(1);
+                }
+

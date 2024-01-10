@@ -1,0 +1,13 @@
+C:\Users\mic\Documents\GitHub\WiiJoy\Src\scripts\form\controller\WiiJoyCoD\WiiJoyCoD\obj\Release\WiiJoyCoD.csprojAssemblyReference.cache
+C:\Users\mic\Documents\GitHub\WiiJoy\Src\scripts\form\controller\WiiJoyCoD\WiiJoyCoD\obj\Release\WiiJoyCoD.Form1.resources
+C:\Users\mic\Documents\GitHub\WiiJoy\Src\scripts\form\controller\WiiJoyCoD\WiiJoyCoD\obj\Release\WiiJoyCoD.csproj.GenerateResource.cache
+C:\Users\mic\Documents\GitHub\WiiJoy\Src\scripts\form\controller\WiiJoyCoD\WiiJoyCoD\bin\Release\WiiJoyCoD.exe.config
+C:\Users\mic\Documents\GitHub\WiiJoy\Src\scripts\form\controller\WiiJoyCoD\WiiJoyCoD\bin\Release\WiiJoyCoD.exe
+C:\Users\mic\Documents\GitHub\WiiJoy\Src\scripts\form\controller\WiiJoyCoD\WiiJoyCoD\bin\Release\WiiJoyCoD.pdb
+C:\Users\mic\Documents\GitHub\WiiJoy\Src\scripts\form\controller\WiiJoyCoD\WiiJoyCoD\obj\Release\WiiJoyCoD.Properties.Resources.resources
+C:\Users\mic\Documents\GitHub\WiiJoy\Src\scripts\form\controller\WiiJoyCoD\WiiJoyCoD\obj\Release\WiiJoyCoD.csproj.CoreCompileInputs.cache
+C:\Users\mic\Documents\GitHub\WiiJoy\Src\scripts\form\controller\WiiJoyCoD\WiiJoyCoD\obj\Release\WiiJoyCoD.exe
+C:\Users\mic\Documents\GitHub\WiiJoy\Src\scripts\form\controller\WiiJoyCoD\WiiJoyCoD\obj\Release\WiiJoyCoD.pdb
+C:\Users\mic\Documents\GitHub\WiiJoy\Src\scripts\form\controller\WiiJoyCoD\WiiJoyCoD\bin\Release\controller.dll
+C:\Users\mic\Documents\GitHub\WiiJoy\Src\scripts\form\controller\WiiJoyCoD\WiiJoyCoD\bin\Release\controller.pdb
+C:\Users\mic\Documents\GitHub\WiiJoy\Src\scripts\form\controller\WiiJoyCoD\WiiJoyCoD\obj\Release\WiiJoyCoD.csproj.CopyComplete
