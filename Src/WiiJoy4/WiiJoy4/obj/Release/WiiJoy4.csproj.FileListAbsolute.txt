@@ -30,3 +30,16 @@ C:\Users\mic\Documents\GitHub\WiiJoy4FPS\Src\WiiJoy4\WiiJoy4\obj\Release\WiiJoy4
 C:\Users\mic\Documents\GitHub\WiiJoy4FPS\Src\WiiJoy4\WiiJoy4\obj\Release\WiiJoy4.pdb
 C:\Users\mic\Documents\GitHub\WiiJoy4FPS\Src\WiiJoy4\WiiJoy4\obj\Release\WiiJoy4.csprojAssemblyReference.cache
 C:\Users\mic\Documents\GitHub\WiiJoy4FPS\Src\WiiJoy4\WiiJoy4\obj\Release\WiiJoy4.Form3.resources
+C:\Users\micha\Documents\github\WiiJoy4FPS\Src\WiiJoy4\WiiJoy4\bin\Release\WiiJoy4.exe.config
+C:\Users\micha\Documents\github\WiiJoy4FPS\Src\WiiJoy4\WiiJoy4\bin\Release\WiiJoy4.exe
+C:\Users\micha\Documents\github\WiiJoy4FPS\Src\WiiJoy4\WiiJoy4\bin\Release\WiiJoy4.pdb
+C:\Users\micha\Documents\github\WiiJoy4FPS\Src\WiiJoy4\WiiJoy4\obj\Release\WiiJoy4.csproj.AssemblyReference.cache
+C:\Users\micha\Documents\github\WiiJoy4FPS\Src\WiiJoy4\WiiJoy4\obj\Release\WiiJoy4.Form1.resources
+C:\Users\micha\Documents\github\WiiJoy4FPS\Src\WiiJoy4\WiiJoy4\obj\Release\WiiJoy4.Form2.resources
+C:\Users\micha\Documents\github\WiiJoy4FPS\Src\WiiJoy4\WiiJoy4\obj\Release\WiiJoy4.Form3.resources
+C:\Users\micha\Documents\github\WiiJoy4FPS\Src\WiiJoy4\WiiJoy4\obj\Release\WiiJoy4.Properties.Resources.resources
+C:\Users\micha\Documents\github\WiiJoy4FPS\Src\WiiJoy4\WiiJoy4\obj\Release\WiiJoy4.csproj.GenerateResource.cache
+C:\Users\micha\Documents\github\WiiJoy4FPS\Src\WiiJoy4\WiiJoy4\obj\Release\WiiJoy4.csproj.CoreCompileInputs.cache
+C:\Users\micha\Documents\github\WiiJoy4FPS\Src\WiiJoy4\WiiJoy4\obj\Release\WiiJoy4.csproj.CopyComplete
+C:\Users\micha\Documents\github\WiiJoy4FPS\Src\WiiJoy4\WiiJoy4\obj\Release\WiiJoy4.exe
+C:\Users\micha\Documents\github\WiiJoy4FPS\Src\WiiJoy4\WiiJoy4\obj\Release\WiiJoy4.pdb
